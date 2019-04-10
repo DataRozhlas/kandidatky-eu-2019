@@ -1,18 +1,12 @@
-title: "Interaktivní kandidátky: proklikejte si, kdo kandiduje, kdo obhajuje a kdo přestoupil"
-perex: "K obecním volbám 5. a 6. října jsme připravili praktickou aplikaci. Během pár kliků vám prozradí informace, které na papíře nenajdete."
-published: "21. dubna 2018"
+title: "Interaktivní kandidátky k eurovolbám: proklikejte si, koho volit"
+perex: "K evropským volbám v pátek a sobotu 24. a 25. května XXX"
+published: "11. dubna 2019"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/komunalni-volby_1802_180823-084533_jab.png?itok=6XCgU6KR
 coverimg_note: ""
 styles: ["//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"]
 libraries: [jquery, "https://d3js.org/d3.v3.min.js", datatables, "https://code.jquery.com/ui/1.12.1/jquery-ui.js", "https://cdn.datatables.net/plug-ins/1.10.19/sorting/diacritics-sort.js"]
 options: [noheader, nopic]
 ---
-_U obhajoby mandátu nebo kandidatury za jinou stranu než minule jsme nejprve museli určit, zda jde na minulých a letošních kandidátkách o stejnou osobu. Kandidáty jsme spojovali podle shodného jména, příjmení, o čtyři roky vyššího věku a kandidatury do stejného zastupitelstva. Pokud se tedy například kandidátka vdala a změnila si jméno nebo jen kandiduje do jiného zastupitelstva než minule, nespojíme si ji._
-
-_Sloupec_ minulá kandidatura _znamená, že kandidát nastupuje za hnutí s jiným názvem než v minulých volbách. Neznamená tedy automaticky přestup do jiné strany._
-
-_U Prahy 9 a obce Lišov, které mají volební obvody, je pořadí kandidáta ve formátu {obvod}/{pořadí na kandidátce}._
-
 <wide>
 <div id="container">
 	<div id="strany">
@@ -42,3 +36,24 @@ Naopak polepšili si Starostové a nezávislí, ti vyrostli o 21 procent, a tak�
 Průměrný věk všech kandidátů je 47 let. Ve všech dosavadních komunálních volbách byl průměrný kandidát o rok až dva mladší. Naznačuje to, že zájem o lokální politiku v posledním období poklesl.
 
 Necelá třetina kandidátů jsou ženy. Podíl žen v konkrétní straně, stejně jako věkový průměr, prozradí interaktivní kandidátky.
+
+
+40 stran, 844 kandidátů, pro všechny regiony jednotná kandidátka; maximum je 28 kand.
+
+volí se 21 ze 705 europarl.
+
+60 procent má titul
+
+24 procent jsou ženy
+
+prům. věk je 47,6 roku
+
+z voleb byla vyřazena Moravská a Slezská pirátská strana
+
+z Wiki jsme doplnili lídry stran
+
+
+
+
+
+

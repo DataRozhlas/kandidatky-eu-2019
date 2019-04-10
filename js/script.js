@@ -10,7 +10,7 @@ d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/app/strany.csv", functi
     return (d);
   });
 
-	var html = '<h3>Kandidující strany</h3>'
+	var html = '<div id = "kandStrany"><h3>Kandidující strany</h3></div>'
 	html += '<table id="tabulkaStran" class="display" style="width:100%"></table>'
 
 	document.getElementById("strany").innerHTML = html;
@@ -51,7 +51,8 @@ function ukazKandidaty(idStrany, nazevStrany) {
     return d != undefined;
   });
 
-  var html = '<h3>Kandidáti</h3>'
+  var html = '<div id = "zpetStrany"><button type = "button" onclick = "zpetStrany()">Zpět na výběr strany</button></div>'
+  html += '<h3>Kandidáti</h3>'
   html += '<h3 style = "font-weight: normal">' + nazevStrany + '</h3>'
   html += '<table id="tabulkaKandidatu" class="display" style="width:100%"></table>'
 
@@ -74,16 +75,16 @@ function ukazKandidaty(idStrany, nazevStrany) {
         },
     });
   });
+
   document.getElementById("zpetStrany").scrollIntoView();
+  window.scrollBy(0, -50);
+
   })
 };
 
 function zpetStrany() {
-  document.getElementById("obec").scrollIntoView();
+  document.getElementById("kandStrany").scrollIntoView();
   window.scrollBy(0, -50);
-
-  document.getElementById("kandidati").innerHTML = '';
-  document.getElementById("zpetStrany").innerHTML = '';
 }
 
 function poskladejTabulkuStran(seznamStran, idStran, idObce) {
