@@ -34,7 +34,7 @@ d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/strany.csv", function(d
   });
 });
 
-function ukazKandidaty(idObce, idStrany, nazevStrany) {
+function ukazKandidaty(idStrany, nazevStrany) {
   document.getElementById("kandidati").innerHTML = 'Načítám data...'
 
   d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/kandidati.csv", function(data){
@@ -51,8 +51,7 @@ function ukazKandidaty(idObce, idStrany, nazevStrany) {
     return d != undefined;
   });
 
-  var html = '<div id = "zpetStrany"><button type = "button" onclick = "spoctiMandaty()">Spočítej mandáty</button></div>'
-  html += '<h3>Kandidáti</h3>'
+  var html = '<h3>Kandidáti</h3>'
   html += '<h3 style = "font-weight: normal">' + nazevStrany + '</h3>'
   html += '<table id="tabulkaKandidatu" class="display" style="width:100%"></table>'
 
@@ -96,7 +95,7 @@ function poskladejTabulkuStran(seznamStran, idStran, idObce) {
     for (var colIndex = 0; colIndex < columns.length; colIndex++) {
       var cellValue = seznamStran[i][columns[colIndex]];
       var nazevStrany = '\'' + seznamStran[i]['Strana'] + '\'';
-      if (colIndex == 0) cellValue = cellValue + '<p class="stranaKlik" onclick="ukazKandidaty(' + idObce + ', ' + idStran[i] + ', ' + nazevStrany + ')"><u>kandidáti</u></p>';
+      if (colIndex == 0) cellValue = cellValue + '<p class="stranaKlik" onclick="ukazKandidaty(' + idStran[i] + ', ' + nazevStrany + ')"><u>kandidáti</u></p>';
       if (cellValue == null) cellValue = "";
       row$.append($('<td/>').html(cellValue));
     }
