@@ -1,61 +1,845 @@
-"StranaNr","Pořadí","Jméno","Věk","Povolání","Bydliště","Obhajuje","Příslušnost","Minulá kandidatura"
-1,4,"JIŘINA BŘEZINOVÁ",43,"expedientka","Želechovice nad Dřevnicí","Ne","KDU-ČSL","KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ"
-1,3,"JARMILA PLACHÁ",58,"kvalitářka","Želechovice nad Dřevnicí","Ne","KDU-ČSL","KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ"
-1,1,"Ing. PAVEL SÝKORA",50,"OSVČ","Želechovice nad Dřevnicí","Ano","KDU-ČSL","KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ"
-1,7,"ANDREA SOUSEDÍKOVÁ",38,"reklamační technik","Želechovice nad Dřevnicí","Ne","KDU-ČSL",""
-1,15,"VOJTĚCH SEDLÁČEK",69,"důchodce","Želechovice nad Dřevnicí","Ne","KDU-ČSL","KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ"
-1,14,"EMILIE SLOVÁKOVÁ",83,"důchodkyně","Želechovice nad Dřevnicí","Ne","KDU-ČSL","KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ"
-1,11,"MARTA SÝKOROVÁ",22,"studentka","Želechovice nad Dřevnicí","Ne","KDU-ČSL",""
-371,2,"PaedDr. ALENA GAJDŮŠKOVÁ",64,"poslankyně Parlamentu ČR","Želechovice nad Dřevnicí","Ano","ČSSD","ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ"
-371,5,"ANTONÍN ČERVENKA",62,"vedoucí úseku údržby DSZO","Želechovice nad Dřevnicí","Ne","Nestr.","ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ"
-371,3,"Ing. ANTONÍN ADAM PEKÁREK",52,"obchodní ředitel firmy","Želechovice nad Dřevnicí","Ne","Nestr.","ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ"
-371,11,"BOŽENA PATÁKOVÁ",79,"předsedkyně Klubu seniorů","Želechovice nad Dřevnicí","Ne","Nestr.","ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ"
-371,10,"Mgr. DAGMAR KAŇOVSKÁ",45,"podnikatelka","Želechovice nad Dřevnicí","Ne","Nestr.","DAGMAR KAŇOVSKÁ, NEZÁVISLÝ KANDIDÁT"
-166,13,"Bc. DAVID ŠPENDLÍK",36,"sociální kurátor","Želechovice nad Dřevnicí","Ne","Nestr.",""
-371,13,"RNDr. EVA VIŠŇOVÁ",74,"trenérka moderní gymnastiky","Želechovice nad Dřevnicí","Ne","Nestr.",""
-166,7,"Ing. JAROMÍR JANOŠ",49,"manažer","Želechovice nad Dřevnicí","Ne","Nestr.",""
-166,9,"MVDr. JAROSLAV BRYCHTA",54,"veterinární lékař","Želechovice nad Dřevnicí","Ne","Nestr.",""
-1,5,"FRANTIŠEK POLÁŠEK",36,"OSVČ","Želechovice nad Dřevnicí","Ne","Nestr.","KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ"
-371,4,"KATEŘINA KOŘÉNKOVÁ",41,"podnikatelka","Želechovice nad Dřevnicí","Ne","Nestr.","KATEŘINA KOŘÉNKOVÁ, NEZÁVISLÝ KANDIDÁT"
-1,10,"HELENA BŘEZINOVÁ",19,"studentka","Želechovice nad Dřevnicí","Ne","Nestr.",""
-166,14,"Ing. MARTINA SMILKOVÁ",53,"projektantka","Želechovice nad Dřevnicí","Ne","Nestr.","SPOJENÍ DEMOKRATÉ - SDRUŽENÍ NEZÁVISLÝCH"
-143,11,"IVANA HRAZDIROVÁ",27,"státní zaměstnanec","Želechovice nad Dřevnicí","Ne","Nestr.",""
-166,15,"Ing. JIŘÍ ŠKRABAL",55,"projektant","Želechovice nad Dřevnicí","Ne","Nestr.","SPOJENÍ DEMOKRATÉ - SDRUŽENÍ NEZÁVISLÝCH"
-166,6,"JITKA CHYTILOVÁ",50,"ošetřovatelka zvířat","Želechovice nad Dřevnicí","Ne","Nestr.",""
-371,7,"JANA RICHTEROVÁ",74,"předsedkyně ČČK","Želechovice nad Dřevnicí","Ne","Nestr.","ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ"
-371,9,"JARMILA NÁŠELOVÁ",67,"důchodkyně","Želechovice nad Dřevnicí","Ne","Nestr.",""
-1,12,"JARMILA ŠIŠKOVÁ",30,"OSVČ","Želechovice nad Dřevnicí","Ne","Nestr.",""
-371,6,"Ing. JAROSLAV MACHÁŇ",74,"důchodce","Želechovice nad Dřevnicí","Ne","Nestr.",""
-371,15,"Ing. LADISLAV PATÁK",67,"podnikatel","Želechovice nad Dřevnicí","Ne","Nestr.",""
-143,2,"LADISLAV ZICHA",44,"živnostník","Želechovice nad Dřevnicí","Ano","Nestr.","SPOJENÍ DEMOKRATÉ - SDRUŽENÍ NEZÁVISLÝCH"
-371,8,"JIŘINA DŘEVOJÁNKOVÁ",62,"důchodkyně","Želechovice nad Dřevnicí","Ne","Nestr.",""
-143,10,"MIROSLAV DOLINA",54,"živnostník","Želechovice nad Dřevnicí","Ano","Nestr.","STAROSTOVÉ A NEZÁVISLÍ"
-143,3,"MAREK KOBLIHA",41,"živnostník","Želechovice nad Dřevnicí","Ne","Nestr.",""
-143,7,"Mgr. MIROSLAV RAFAJ",43,"středoškolský učitel","Želechovice nad Dřevnicí","Ne","Nestr.",""
-1,2,"KAREL ČERVENKA",59,"dělník","Želechovice nad Dřevnicí","Ne","Nestr.","KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ"
-143,15,"Ing. PAVEL HAIT",60,"stavební technik","Želechovice nad Dřevnicí","Ne","Nestr.","SPOJENÍ DEMOKRATÉ - SDRUŽENÍ NEZÁVISLÝCH"
-1,8,"PAVLA SÝKOROVÁ",49,"sociální pracovnice","Želechovice nad Dřevnicí","Ne","Nestr.",""
-166,3,"Ing. PAVLÍNA SVOBODOVÁ",35,"ekonomka","Želechovice nad Dřevnicí","Ne","Nestr.","STAROSTOVÉ A NEZÁVISLÍ"
-143,8,"Mgr. MARCEL ČERVENÝ",39,"technik","Želechovice nad Dřevnicí","Ne","Nestr.",""
-143,5,"Mgr. MIROSLAV TIŠER",34,"grafik","Želechovice nad Dřevnicí","Ne","Nestr.","SPOJENÍ DEMOKRATÉ - SDRUŽENÍ NEZÁVISLÝCH"
-166,12,"MIROSLAVA BOROVIČKOVÁ",51,"technik","Želechovice nad Dřevnicí","Ne","Nestr.",""
-143,6,"STANISLAV HLAHŮLEK",40,"řidič","Želechovice nad Dřevnicí","Ne","Nestr.",""
-166,5,"JUDr. PAVLA PAPRČKOVÁ",60,"advokát","Želechovice nad Dřevnicí","Ano","Nestr.","STAROSTOVÉ A NEZÁVISLÍ"
-166,1,"Bc. MICHAL ŠPENDLÍK",46,"starosta","Želechovice nad Dřevnicí","Ano","Nestr.","STAROSTOVÉ A NEZÁVISLÍ"
-143,14,"PETR DOLANSKÝ",41,"řezník","Želechovice nad Dřevnicí","Ne","Nestr.","SPOJENÍ DEMOKRATÉ - SDRUŽENÍ NEZÁVISLÝCH"
-143,13,"Ing. PETR HRAZDIRA",33,"státní zaměstnanec","Želechovice nad Dřevnicí","Ne","Nestr.","SPOJENÍ DEMOKRATÉ - SDRUŽENÍ NEZÁVISLÝCH"
-143,12,"VERONIKA ZICHOVÁ",21,"studentka VŠ","Želechovice nad Dřevnicí","Ne","Nestr.",""
-166,11,"ROBERT CHMELA",39,"vedoucí skladu","Želechovice nad Dřevnicí","Ne","Nestr.",""
-143,9,"Ing. MIROSLAV SMOLKA",31,"stavební technik","Želechovice nad Dřevnicí","Ne","Nestr.",""
-1,6,"RADEK ŠARMAN",57,"řidič","Želechovice nad Dřevnicí","Ne","Nestr.",""
-143,4,"ZDENĚK KŰHR",29,"seřizovač CNC","Želechovice nad Dřevnicí","Ne","Nestr.",""
-371,14,"VĚRA ELŠÍKOVÁ",73,"důchodkyně","Želechovice nad Dřevnicí","Ne","Nestr.",""
-166,8,"STANISLAV PIŠTĚK",71,"důchodce","Želechovice nad Dřevnicí","Ano","Nestr.","STAROSTOVÉ A NEZÁVISLÍ"
-143,1,"RADEK ŠARMAN",41,"živnostník","Želechovice nad Dřevnicí","Ano","Nestr.","STAROSTOVÉ A NEZÁVISLÍ"
-371,12,"VLADIMÍR MALOŇ",65,"trenér mládeže judo","Želechovice nad Dřevnicí","Ne","Nestr.","ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ"
-371,1,"ROSTISLAV HANZLÍK",62,"jednatel společnosti","Želechovice nad Dřevnicí","Ano","Nestr.","ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ"
-1,13,"VERONIKA SÝKOROVÁ",22,"studentka","Želechovice nad Dřevnicí","Ne","Nestr.",""
-166,10,"VLADIMÍR BALAJKA",71,"důchodce","Želechovice nad Dřevnicí","Ne","Nestr.","STAROSTOVÉ A NEZÁVISLÍ"
-1,9,"RENATA KRAJČOVÁ",44,"prodavačka","Želechovice nad Dřevnicí","Ne","Nestr.",""
-166,2,"VLASTISLAV ŠVRČEK",61,"revizní technik-elektro","Želechovice nad Dřevnicí","Ne","Nestr.",""
-166,4,"VÁCLAV GARGULÁK",61,"živnostník","Želechovice nad Dřevnicí","Ano","Nestr.","SPOJENÍ DEMOKRATÉ - SDRUŽENÍ NEZÁVISLÝCH"
+StranaNr,Pořadí,Jméno,Věk,Povolání,Bydliště
+1,1,Ing. JIŘÍ DOMLÁTIL,73,"stavební inženýr, předseda KAN",Praha
+1,2,STANISLAV POCHMAN,55,výrobní dispečer,Chodov
+1,3,Ing. ROMANA ŠIMKOVÁ,31,Pricing & Merchandising Coordinator,Praha
+1,4,Mgr. et Mgr. JIŘÍ SCHMIDT,63,pedagog,Příbram
+1,5,MUDr. KAREL PROTIVA,67,zubní lékař,Kladno
+1,6,Mgr. MARIE GOTTFRIEDOVÁ,44,ředitelka základní školy,Trmice
+1,7,Mgr. DAVID NAVARA,42,programátor,Jindřichův Hradec
+1,8,Ing. MILAN TAUSCH,52,ekonom,Plzeň
+1,9,Mgr. HANA MATĚJKOVÁ,49,učitelka,Plzeň
+1,10,VLADIMÍR ROTT MSc,68,"architekt, ekonom",Praha
+1,11,ALEXIS KATAKALIDIS MSc,30,učitel,Praha
+1,12,Ing. JOLANA BRADOVÁ,52,vodohospodář,Plzeň
+1,13,"Prof. Ing. JAROSLAV ŠESTÁK DrSc., Dr.h.c.",80,"badatel, nositel Medaile Za zásluhy I. stupně",Praha
+1,14,Mgr. Ing. VÁCLAV BAROCH Ph.D.,43,informatik a ekonom,Praha
+1,15,BOHUSLAV HAMÁČEK,69,požární technik,Praha
+1,16,RADEK HRUŠKA,43,programátor,Vinařice
+1,17,Ing. PAVEL KOMRSKA,60,konzultant,Příbram
+1,18,BARNABÁŠ BÍRO,73,technik,Kralupy nad Vltavou
+1,19,MILAN ŠURINA,60,podnikatel,Český Brod
+1,20,JIŘÍ ČUMPELÍK,73,exstarosta Prahy 11,Všestary
+1,21,Ing. PAVEL STULÍK,76,strojní inženýr,Praha
+1,22,Ing. Mgr. JANA SLÁNSKÁ,76,filmařka,Praha
+2,1,FRANTIŠEK MATĚJKA,48,"předs. strany, zakl. a řed. o.p.s. bez veř. dotací",Most
+2,2,Dr. Ing. RICHARD HARTMANN,50,"čl. předsednictva strany, elektrotechnický inženýr",Vědomice
+2,3,Ing. KAREL FIEDLER,57,"bývalý poslanec PČR, živnostník",Hrádek
+2,4,Mgr. Ing. KAREL LEŠKOVSKÝ,50,"krizový manažer, bezpečnostní poradce",Praha
+2,5,Ing. KAREL ZVÁRA Ph.D.,43,"ekonom, jednatel, systémový architekt",Týnec nad Sázavou
+2,6,Ing. LIBOR ZEMAN,55,majitel společnosti,Praha
+2,7,MILAN LOPRAIS,43,"obecní zastupitel, ekonomický poradce, živnostník",Frenštát pod Radhoštěm
+2,8,OTTO ČERNÝ,70,"polit. vězeň, disident, sign. Charty 77, redaktor",Postupice
+2,9,Mgr. IVETA KUBOVÁ,53,"knihovnice, vedoucí knihovny",Brno
+2,10,Ing. ROMAN MALACH,42,"ekonom, soudní znalec",Praha
+2,11,Mgr. ONDŘEJ PECÁK,35,"člen předsednictva strany, advokát",Praha
+2,12,Ing. VÁCLAV KAREŠ,59,IT specialista,Hrusice
+2,13,Ing. PETR JAROŠ,45,"manažer, dopravní expert",České Budějovice
+2,14,DAVID MATĚJŮ,47,specialista informační bezpečnosti,Praha
+2,15,Mgr. HANA JIRKALOVÁ,68,patentová zástupkyně,Praha
+2,16,Mgr. ZDENĚK KRÁL,28,živnostník,Chrustenice
+2,17,MARTIN SIMANDL,56,"hudebník, textař",Praha
+2,18,JIŘÍ HEMERLE,47,OSVČ,Nepomuk
+2,19,JAROSLAV PEKAŘÍK,39,vedoucí velkoobchodu,Ivaň
+2,20,MICHAL NOSEK,44,správce IT,Děčín
+2,21,MICHAL CHÁRA,46,"historik, odborný poradce",Praha
+3,1,Bc. ANTONÍN BAUDYŠ,46,"konzultant, před. kraj. org. hnutí CESTA",Šumperk
+3,2,Bc. JAN DUBANIČ,44,"konzultant a lektor, místopř. hnutí CESTA",Ústí nad Labem
+3,3,Ing. JAN KUBÍN,55,"podnikatel, místopředseda hnutí CESTA",Praha
+3,4,Bc. VOJTĚCH DRAHOŇOVSKÝ,40,podnikatel v zemědělství,Železnice
+3,5,KATEŘINA VAŠÁKOVÁ,40,expert účetních procesů,Jihlava
+3,6,Bc. LENKA BLAHOVÁ DiS.,32,manažerka,Černá Voda
+3,7,Ing. JAROSLAV ZÁHORA,54,"podnikatel, předseda kr. org. hnutí CESTA",Hradec Králové
+3,8,JIŘÍ MACÁK,52,"odborný konzultant, provozní chemik",Roztoky
+3,9,Ing. JAROSLAV NAHODIL,63,"kouč, konzultant, před. kr. org. hnutí CESTA",Brno
+3,10,PhDr. DENISA BINAROVÁ,40,klinická psycholožka,Vysoké Mýto
+3,11,Mgr. PAVEL SOBEK,49,OSVČ,Jihlava
+3,12,Ing. MARTIN LICHTENBERK,43,personální ředitel,Vysoké Mýto
+3,13,EVA PATEROVÁ,45,nákupčí,Brno
+3,14,Bc. KATEŘINA BÍLKOVÁ,45,"zdravotní sestra, sociální pracovnice",Mohelnice
+3,15,JANA ŠŤASTNÁ DiS.,39,"fyzioterapeutka, instruktorka shiatsu-do",Brno
+3,16,Ing. TOMÁŠ BARTONÍČEK Ph.D.,42,IT administrátor,Dolní Roveň
+3,17,Ing. PETR KAPOUN,54,podnikatel v oblasti stavebnictví,Děčín
+3,18,Ing. JAN ZELENÝ,47,OSVČ - IT služby,Praha
+3,19,Bc. JAKUB LUSTIG,40,OSVČ,Jičín
+3,20,Ing. MARTIN KŮSTKA,52,správa pohledávek,Olomouc
+3,21,MIROSLAV SÝKORA,54,OSVČ - výuka angličtiny,Pardubice
+3,22,OLDŘICH ZIMA,58,obchodní zástupce,Hradec Králové
+3,23,Mgr. LUCIE MEŠKANOVÁ,45,mediátorka a lektorka,Praha
+3,24,ILONA FIALOVÁ,61,knihkupec,Zásmuky
+3,25,PETR POSPÍŠIL,42,kamnář,Sulkovec
+3,26,Mgr. JAROSLAV KUCHAŘ,55,podnikatel,Přišimasy
+4,1,Prof. MUDr. IVAN ŠTERZL CSc.,65,"lékař, zakl. imunoendokrinologie v ČR",Velhartice
+4,2,JUDr. SANDRA ŠOTOVÁ,33,"právnička, specialistka na eurodotace",Praha
+4,3,PhDr. VLADIMÍR PELC,65,"podnikatel, daňový specialista",Praha
+4,4,Mgr. ZDEŇKA TOŠNEROVÁ,59,ředitelka sportovního areálu,Praha
+4,5,JUDr. JAROSLAV KRÁL CSc.,67,"právník, býv. nám. min. dopravy a pro míst. rozvoj",Praha
+4,6,STANISLAVA TŮMOVÁ,61,"jednatelka, podnikatelka",Horoušany
+4,7,Doc. PhDr. PaedDr. ZBYNĚK HOLUB Ph.D.,62,"VŠ pedagog, místopředseda strany",České Budějovice
+4,8,RNDr. MÁRIA KROPÁČKOVÁ,63,ředitelka Centra zdravého srdce,Praha
+4,9,JIŘÍ PONDĚLÍČEK,54,knihkupec,Praha
+4,10,ZDENĚK JIRÁSEK,61,"spisovatel, bezpečnostní expert",Praha
+4,11,JUDr. PETR TOPINKA,61,advokát,Praha
+4,12,Ing. JOSEF MASTNÝ,58,ekonom,Praha
+4,13,STANISLAV VONDRÁČEK,56,strážný,Česká Lípa
+4,14,Ing. JAROMÍR SCHLING,72,"podnikatel, býv. ministr dopravy a spojů",Praha
+4,15,JAN ŠINOGL,69,podnikatel,Strachotice
+4,16,LJUDMILA FOMKINA,68,majordomus,Praha
+4,17,PŘEMYSL VOTAVA,75,tiskový mluvčí a místopředseda strany,Praha
+4,18,JUDr. LUDVÍK HYNEK,69,právník,Praha
+4,19,MARIE CHAROUSKOVÁ,62,učitelka MŠ,Praha
+4,20,VÁCLAV CHAROUSEK,64,specialista IT,Praha
+4,21,JAROSLAV DVOŘÁK,43,"analytik, IT, územní plánování",Praha
+5,1,Ing. JAN ZAHRADIL,56,poslanec Evropského parlamentu,Praha
+5,2,Ing. EVŽEN TOŠENOVSKÝ,63,poslanec Evropského parlamentu,Ostrava
+5,3,Ing. VERONIKA VRECIONOVÁ,53,"poslankyně PČR, před. Spolku pro obnovu venkova ČR",Přezletice
+5,4,Mgr. ONDŘEJ KRUTÍLEK,38,analytik legislativy EU,Brno
+5,5,Mgr. RADKA TRYLČOVÁ,44,radní Plzeňského kraje pro oblast ŽP a zemědělství,Plzeň
+5,6,Mgr. EVA DECROIX,36,"advokátka, zapsaná mediátorka, podnikatelka",Jihlava
+5,7,"prof. RNDr. JOSEF HYNEK MBA, Ph.D.",53,děkan,Vysoké Mýto
+5,8,Ing. MARCEL KOLLMANN,47,ředitel společnosti,Žatec
+5,9,M.A. TOMÁŠ HANUŠ,32,poradce pro frakci Evropských konz. a reform. v EP,Hradec Králové
+5,10,EDVARD KOŽUŠNÍK,48,analytik legislativy EU a běžec,Praha
+5,11,Bc. ANDREA ŠILHANOVÁ,24,studentka,Praha
+5,12,ŠTĚPÁN SLOVÁK,21,student Právnické fakulty UK,Luhačovice
+5,13,Ing. TOMÁŠ LÁZNA,26,"vědecký pracovník VUT, robotik",Prostějov
+5,14,Dr. VLADIMÍR KAJLIK Ph.D.,72,"překladatel, vysokoškolský pedagog",Mariánské Lázně
+5,15,RNDr. ALEXANDR VONDRA,57,"VŠ pedagog, bývalý disident, diplomat a ministr",Litoměřice
+5,16,MUDr. LUDĚK SEFZIG,62,lékař,Rokycany
+5,17,doc. Ing. MANSOOR MAITAH Ph.D. et Ph.D.,56,vědecký pracovník - vysokoškolský pedagog,Praha
+5,18,Mgr. DANIEL ŠTĚPÁNEK,42,místostarosta města Bystřice,Bystřice
+5,19,Mgr. ALEXANDER BELLU,31,"živnostník, zastupitel Prahy 3",Praha
+5,20,Mgr. JINDŘICH VOBOŘIL,52,ředitel společnosti Podané ruce o.p.s.,Brno
+5,21,Mgr. PAVEL HEJTMÁNEK,53,Key Acount manager SYSMEX CZ s.r.o.,Chotěboř
+5,22,Ing. HYNEK ORSÁG,52,jednatel firmy,Karviná
+5,23,Mgr. VERONIKA LUŇÁKOVÁ,29,specialistka ve farmaceutické společnosti,Neratovice
+5,24,ANNA HEANEY,71,politoložka,Praha
+5,25,Ing. VÁCLAVA JANDEČKOVÁ,45,"spisovatelka, publicistka, badatelka",Kdyně
+5,26,Mgr. JIŘÍ KOZÁK,42,"ředitel vzdělávací organizace, VŠ učitel",Říčany
+5,27,MARTIN ELIS KUCHAŘ,49,péče o osobu blízkou,Praha
+5,28,MICHAL ZÁCHA,41,1. náměstek primátora statutárního města Přerova,Přerov
+6,1,Bc. LUCIE SCHEJBALOVÁ,31,youtuberka Sejroška - Šimering expert,Chlumec
+6,2,ANTONÍN CAPOUŠEK,35,kryptobaron,Bžany
+6,3,JIŘÍ KYJOVSKÝ,31,"generální ředitel TAXI Otnice, zastupitel ze Šimic",Brno
+6,4,TOMÁŠ SUS,31,včelař,Brno
+6,5,JAKUB GAUNER,33,provozovatel Gauners Tuning Team GTT,Jihlava
+6,6,NELA CAPOUŠKOVÁ,28,mateřská dovolená,Chlumec
+6,7,ANTONÍN FUKSA,31,kouzelník,Křenovice
+6,8,PETR ŠINDELÁŘ,60,administrativní pracovník,Brno
+6,9,MARTIN ŠLACHTA,32,"ekolog, imitátor Václava Havla",Brno
+7,1,RNDr. PAVEL POC,54,"poslanec EP, biolog",Valy
+7,2,MUDr. OLGA SEHNALOVÁ MBA,50,"poslankyně EP, lékařka",Kroměříž
+7,3,Mgr. RADEK HLAVÁČEK,28,právník,Praha
+7,4,Ing. Bc. ZUZANA BRZOBOHATÁ,56,"poradkyně, členka výboru EHS",Tišnov
+7,5,Mgr. PAVEL KAWULOK,39,právník,Hrádek
+7,6,Mgr. DANIELA VAŠÁTKOVÁ,29,vědecká pracovnice - VP Olomouc,Zábřeh
+7,7,Ing. JAROSLAV VESELÝ,62,starosta,Raná
+7,8,Mgr. Ing. LUCIE SVOBODOVÁ,37,právnička,Praha
+7,9,JAKUB KULHÁNEK M.A.,34,náměstek ministra vnitra ČR,Mělník
+7,10,Mgr. DANIELA SMETANOVÁ,28,poradkyně pro zahraniční politiku,Praha
+7,11,Ing. ROMAN VÁŇA,52,živnostník,Olomouc
+7,12,Mgr. RENÉ PŘÍHODA,33,advokátní koncipient,Hradec Králové
+7,13,PhDr. LUKÁŠ KAUCKÝ,37,náměstek ministra zahraničí ČR,Praha
+7,14,Bc. JAN KOŠÁK,33,pedagog,Sviadnov
+7,15,TOMÁŠ BINDER,48,soudní tlumočník,Česká Lípa
+7,16,Mgr. MILAN BALAHURA,32,tajemník ČSSD,Praha
+7,17,Mgr. RADEK SCHERFER,44,"člen org. Krajská zdravotní, a.s.",Kadaň
+7,18,Mgr. SUZAN SAIDAMOVÁ,26,právnička,Havlíčkův Brod
+7,19,Mgr. TOMÁŠ ŘEPA Ph.D.,33,odborný asistent Univerzity obrany,Brno
+7,20,Bc. MARTIN ŠPÁNEK,25,"student ZČU v Plzni, Fa. filoz., obor mez. vztahy",Plzeň
+7,21,GABRIEL FORMAN,22,student - Pedagogická fakulta,Rychnov nad Kněžnou
+7,22,PETR LEBEDA,26,obchodní manažer,Milevsko
+7,23,PhDr. MILOŠ BALABÁN Ph.D.,56,vědecký pracovník,Praha
+7,24,Ing. MARKÉTA WERNEROVÁ,35,ředitelka firmy,Karlovy Vary
+7,25,Bc. KRISTIÁN MALINA,33,zahraniční tajemník ČSSD,Praha
+7,26,Mgr. MARCEL KUČERA,50,hudební pedagog,Velký Luh
+7,27,Ing. TOMÁŠ SOUKAL,37,radní Jihomoravského kraje,Rajhrad
+7,28,Ing. RADIM TECHNIK,35,obchodní ředitel,Žďár nad Sázavou
+8,1,MIROSLAV TANCOŠ,59,předseda RDS,Nový Bor
+8,2,ŠTEFAN GOROL',62,romský nezávislý aktivista,Nový Bor
+8,3,MIROSLAV RUSENKA,61,místopředseda RDS,Praha
+8,4,LADISLAV SIVAK,62,tajemník ÚV RDS,Praha
+9,1,Ing. KATEŘINA KONEČNÁ,38,poslankyně Evropského parlamentu,Nový Jičín
+9,2,ANDREJ BÓNA,23,"student Masarykovy univerzity, redaktor, překlad.",Brno
+9,3,ARŤOM KORJAGIN,31,"družstevník v Sociálním družstvu Střecha, provozní",Praha
+9,4,ROMAN BLAŠKO,49,"redaktor Haló novin, fotograf",Luboměř
+9,5,Ing. LUKÁŠ PAŘÍZEK,35,provozně technický specialista,Litoměřice
+9,6,"DAGMAR ŠVENDOVÁ B.A, LL.M.",41,specialistka v oboru práva a legislativy EU,Břeclav
+9,7,Ing. ZDENĚK ŠTEFEK,44,předseda Výboru pro památkovou péči,Buštěhrad
+9,8,Ing. KATEŘINA AMBROŽOVÁ SRNCOVÁ,37,středoškolská pedagožka,Zdounky
+9,9,Ing. PETR PICK Ph.D.,36,výzkumný pracovník v oboru letectví,Praha
+9,10,JUDr. LUBOMÍR LEDL,66,poradce ústavního činitele,Praha
+9,11,ANNA VACULÍKOVÁ,25,řidička kamionu - dálková přeprava do zahraničí,Jindřichův Hradec
+9,12,"Mgr. IVAN MAŠTÁLKA LL.M., MBA",37,právník,Plzeň
+9,13,PETR BUREŠ,42,referent zahraničního obchodu,Štětí
+9,14,JUDr. Bc. RICHARD POKORNÝ Ph.D.,40,vysokoškolský učitel,Plzeň
+9,15,PAVLA ŠVEPEŠ ŠLAHÚNKOVÁ B.A,31,"socioložka, pozorovatelka mez. ženské sk. pro mír",Trhové Sviny
+9,16,Mgr. Ing. TEREZA ČECHOVÁ HUMPOLCOVÁ Ph.D.,32,"vedoucí analytického odd., asistentka poslance",Tišice
+9,17,Ing. JAROMÍR KOHLÍČEK CSc.,66,"poslanec EP, člen Svazu boj. za svobodu",Teplice
+9,18,JUDr. PhDr. ZDENĚK ONDRÁČEK Ph.D.,49,poslanec Parlamentu České republiky,Trutnov
+9,19,prof. RNDr. JIŘÍ HUDEČEK CSc.,65,"profesor Univerzity Karlovy, biochemik",Praha
+9,20,Ing. Bc. EVA BADINKOVÁ,52,občanská zaměstnankyně Policie ČR,Bystřice pod Hostýnem
+9,21,LUDVÍK ŠULDA BBA,39,předseda Kontrolního výboru Zast. Olom. kraje,Seloutky
+9,22,JOSEF JORDÁN,46,servisní technik,Brtnice
+9,23,Ing. Bc. PETR KUBEŠ,30,vedoucí logistik,Žatec
+9,24,Ing. PETR HAVRÁNEK,41,manažer,Studénka
+9,25,Ing. KVĚTA MATUŠOVSKÁ,34,"poslankyně Parlamentu ČR, dopravní inženýrka",Javorník
+9,26,Ing. JIŘÍ GRÜNBAUER,63,ředitel zdravotnického zařízení,Příbram
+9,27,Ing. RENÉ ČÍP,44,ekonom,Ostrava
+9,28,Mgr. JAN KLÁN,36,sociolog a analytik,Kutná Hora
+10,1,Mgr. TOMÁŠ VANDAS,50,předseda DSSS a podnikatel,Ústí nad Labem
+10,2,OTO ZAREMBA,62,olympijský vítěz a sportovní konzultant,Havířov
+10,3,Mgr. JIŘÍ ŠTĚPÁNEK,47,výkonný místopředseda DSSS,Plzeň
+10,4,ALENA POLÁČKOVÁ,58,podnikatelka,Týnec nad Sázavou
+10,5,ROMAN POSPÍŠIL,52,zastupitel města,Větřní
+10,6,JINDŘICH SVOBODA,34,radní města,Duchcov
+10,7,JIŘINA NIKÉ HÁJEK DiS.,38,státní zaměstnanec,Praha
+10,8,JIŘÍ POLEDNO,72,chemik,Ostrava
+10,9,LIBOR SOJKA,63,podnikatel,Davle
+10,10,TOMÁŠ KOZÁK,38,stavební podnikatel,Nové Hamry
+10,11,Bc. MARTINA BLAŠKOVÁ,50,asistentka jednatele společnosti,Cheb
+10,12,Mgr. LADISLAV MALÝ,73,katolický aktivista,Praha
+10,13,VLADIMÍR JIRÁSEK,58,řidič,Lázně Bohdaneč
+10,14,PETR BORNA,51,podnikatel,Ostrava
+10,15,JAN HŘIVNA,29,výpravčí SŽDC,Týnec nad Sázavou
+10,16,VILÉM FRONČEK,56,podnikatel,Ostrava
+10,17,ERIK LAMPRECHT,31,marketingový a obchodní manažer,Brno
+10,18,MARTIN AUBRECHT DiS.,34,předseda Dělnické mládeže,Mělník
+10,19,NELA VESELÁ,21,překladatelka,Praha
+10,20,KAREL KŘIVÁNEK,54,dělník,Praha
+10,21,ŠTĚPÁN KALUŽA,63,zaměstnanec VLS,Větřní
+10,22,TOMÁŠ VEJVODA,43,řidič MKD,Nejdek
+10,23,PETR ŠTYNDL,34,zastupitel obce,Vír
+10,24,Bc. JAKUB VRŠOVSKÝ,30,řidič,Duchcov
+10,25,JAROSLAV DUPÁK,63,numismatik,Příbram
+10,26,EVA NOVOTNÁ,40,dělnice,Větřní
+10,27,MARTIN VRTIŠKA,48,fotbalový trenér,Ústí nad Labem
+10,28,JIŘÍ HOLOUBEK,49,podnikatel,Praha
+11,1,PhDr. MIROSLAV SLÁDEK,68,bojovník proti bezpráví a totalitě,Brno
+11,2,ZDENĚK KRAMPERA,67,"poslanec PS PČR v letech 1992-1998, antikvář",Praha
+11,3,TOMÁŠ FRANĚK,32,podnikatel,Týnec nad Sázavou
+11,4,KAMIL SEDLÁČEK,48,operátor dopravy,Bohumín
+11,5,VĚRA VÍTOVCOVÁ,46,operátor elektrovýroby,Plzeň
+11,6,KAREL FLEISCHER,55,poradce a obhájce spotřebitelů,Brno
+11,7,JUDr. MIROSLAV PINDEŠ Ph.D.,58,"advokát, člen Advokátní komory ČR, fotb. rozhodčí",Bučovice
+11,8,JIŘÍ DUBSKÝ,48,elektrotechnik,Praha
+11,9,MICHAL OLIVA,45,živnostník,Kladno
+11,10,MARTIN PRÁT,33,mechanik,Opočno
+11,11,JAROSLAV KOPECKÝ,62,podnikatel,Frýdlant
+11,12,PhDr. PAVEL NOVÁK,64,OSVČ,Jindřichův Hradec
+11,13,RADEK FALTA,45,elektromechanik,Havlovice
+11,14,ROMAN PATA,54,IT specialista,Praha
+11,15,ALEŠ NEUMANN,34,dělník,Nížkovice
+11,16,SANDRA OLÁHOVÁ,27,manažer skladového hospodářství,Rakovník
+11,17,KATEŘINA KOPRNICKÁ,43,asistentka,Praha
+11,18,JIŘÍ KOČÍ,40,muzejník,Mladá Boleslav
+11,19,ROMAN KRYŠTOF,47,řidič,Sedliště
+11,20,JAN SÝKORA,21,student,Benešov
+11,21,JANA NOVÁKOVÁ,40,reklamní agent,Hradec Králové
+11,22,VIKTOR JABLONSKÝ,50,řidič,Přerov
+11,23,JIŘÍ BENEŠ,33,IT specialista,Nová Ves
+11,24,JAROSLAV BERKA,42,technik,Blatná
+11,25,VLADIMÍR JANSA,42,sochař a podnikatel,Sázava
+11,26,ROMAN DLOUHÝ,61,bezpečnostní technik,Praha
+11,27,JOSEF KARÁSEK,51,specialista na skladovou logistiku,Praha
+11,28,DAVID JANĎOUREK,28,technik,Praha
+12,1,ADAM BENJAMIN BARTOŠ,39,předseda strany,Kadaň
+12,2,Mgr. PETR HANNIG,73,"předseda strany, bývalý prezidentský kandidát",Praha
+12,3,PAVEL OPL,47,policejní rada v.v.,Praha
+12,4,MUDr. JIŘÍ SOMBERG,58,vedoucí lékař nestátního zdravotního zařízení,Kosmonosy
+12,5,"PhDr. ThDr. Mgr. EUGEN SIGISMUND FREIMANN Ph.D., M.A.",58,"vysokoškolský pedagog, pravoslavný duchovní",Teplice
+12,6,Ing. KARIN SZCZYRBOVÁ,38,"ekonomka, překladatelka, tlumočnice",Karviná
+12,7,MILOSLAV HUDEC,52,instruktor střelby,Nymburk
+12,8,"MUDr. VLADIMÍR KOTEK Ph.D., MBA",58,primář urologie a klinické onkologie,Brno
+12,9,PETR FIŠER,59,vedoucí kulturního zařízení města Krupky,Krupka
+12,10,Bc. JAN SEDLÁČEK,24,"studující oboru přírodovědy JU, živnostník",Rokycany
+12,11,Ing. RADEK DOKOUPIL,49,technický ředitel,Lanškroun
+12,12,Ing. IVAN CÍCHA,57,stavbyvedoucí,Tábor
+12,13,ZDENĚK MOČYDLAN,49,živnostník,Ostrava
+12,14,Ing. VLADIMÍR ŠTÁDLER,61,"učitel námořní školy v Bratislavě, lodní special.",Praha
+12,15,Mgr. VÁCLAV MAKALOUŠ,41,administrativní pracovník v rodinné firmě,Lhota pod Libčany
+12,16,Bc. ZDENĚK CEKOTA,65,OSVČ,Zlín
+12,17,PhDr. VLADIMÍR FRANTA Ph.D.,42,"filolog, novinář",Černošice
+12,18,Ing. ALEXANDR GEGALČIJ,70,"podnikatel, člen Svět. kong. Podkarp. Rusínů",Praha
+12,19,JINDŘICH KOČÍ,45,manažer realizace energetických staveb,České Budějovice
+12,20,RNDr. JOSEF HAUSMANN CSc.,65,nezávislý publicista,Vysoké nad Jizerou
+12,21,Ing. VLADIMÍR STEJSKAL,58,"systémový specialista, informatik",Zábřeh
+12,22,Mgr. JAN KOZÁK,68,"nakladatel, překladatel ze sanskrtu",Praha
+12,23,Ing. PETR SEIDEL,54,"projektant, konstruktér, stav. inženýr",Hradec Králové
+12,24,PETR SCHILLER,45,logistik,Plzeň
+12,25,RADEK ŽALUD DiS.,33,pěvec,Lipí
+12,26,Mgr. LUDĚK PETRÁŇ,51,učitel ZŠ,Ostrov
+12,27,ROBERT PEOVSKÝ,31,strojírenský dělník,Česká Skalice
+12,28,SILVIA WEISZOVÁ,51,"OSVČ, místopředsedkyně strany",Praha
+13,1,PETR CIBULKA,68,"pětinásobný politický vězeň, vydavatel seznamů StB",Praha
+13,2,JAN BEČKA,41,koordinátor,Ohrazenice
+13,3,MIRKO HORÁČEK,61,podnikatel a obchodní manažer,Praha
+13,4,Mgr. Bc. MILAN MIKEŠ,48,počítačový specialista,Římov
+13,5,MILAN KOČÍK,63,"volný novinář, léčitel a Český ombudsman",Žďár nad Sázavou
+13,6,MIROSLAV VÁCLAVEK,53,"manažer, spisovatel, básník, politický analytik",Šumperk
+13,7,Ing. LUBOMÍR TICHÝ,71,angažovaný občan,Jaroměřice
+13,8,PETR PŘISTOUPIL,36,zřizovatel a jednatel spolku,Ústí nad Labem
+13,9,MIROSLAV DURDIL,70,volný novinář,Praha
+13,10,FRANTIŠEK KAZILOVSKÝ,62,údržbář,Lázně Bohdaneč
+13,11,BRONISLAVA ZIGOVÁ,59,asistentka Českého ombudsmana,Nové Město na Moravě
+13,12,ANTONÍN GRUND,62,živnostník,Rokytnice v Orlických horách
+13,13,FRANTIŠEK HERŠÁLEK,66,angažovaný občan,Střevač
+13,14,MILAN JIRŮŠEK,52,dělník,Hošťálková
+13,15,JAN ŠAFÁŘ,71,angažovaný občan,Prštice
+13,16,JIŘÍ BUDNÍK,59,angažovaný občan,Bohumín
+14,1,JOSEF ZAHRADNÍK,33,dopravní specialista kolejových vozidel,Výškov
+14,2,SABINA SEJKOROVÁ,21,"VŠ student oboru Mez. vztahy, MUP Praha",Kvasiny
+14,3,JAN VONDROUŠ,41,"podnikatel, lektor cizích jazyků",Bohušovice nad Ohří
+14,4,RICHARD MIHULA,47,administrativní prac. v obl. správy nemovitostí,Brno
+14,5,PETR ŽAMPACH,22,VŠ student oboru Mezinár. vztahy MUP Praha,Žumberk
+14,6,JUDr. ALEXANDER KLIMEŠ,77,"advokát, přísedící u obvodního soudu",Příbram
+14,7,MIROSLAV VAŠEK,48,zdravotník psychiatrické nemocnice Havl. Brod,Chotěboř
+14,8,TEREZA ŠMAJSOVÁ,21,"VŠ student oboru humanitních studií, UK Praha",Jesenice
+14,9,Bc. IVAN FABIÁN DiS.,61,"učitel prak. výchovy v ob. elektrotechnika, dudák",České Budějovice
+14,10,JAN PROKEŠ,29,"soukromý podnikatel, komunální politik",Žumberk
+14,11,JIŘÍ VOSLÁŘ,46,technický pracovník v ostraze budov a osob,Praha
+14,12,Ing. PAVEL KŘIVKA,58,"botanický zahradník, překladatel a nakladatel",Pardubice
+14,13,LUCIE NEJEDLOVÁ,33,"floristka, majitel. a provoz. studia ""Atelier 26""",Třebotov
+14,14,Ing. TOMÁŠ FORAL,53,podnikatel v oblasti zahradnictví a sadařství,Brno
+14,15,Ing. PETR GOTTHARD,41,IT technik a systémový specialista,Brno
+14,16,VLADISLAV AUDA,47,soukr. podnik. v oblasti mediál. služby a propag.,Slavkov u Brna
+14,17,LUKÁŠ SOUKUP,30,kuchař,Miroslav
+14,18,MATĚJ ŠTROBL,23,"svářeč, autoklempíř",Terezín
+14,19,JAROSLAV OCIEPKA,27,"invalidní důchodce, poštovní doručovatel",Lovečkovice
+15,1,RADEK KŇAVA,38,personalista v automobilce,Pardubice
+15,2,HANA FILIPOVÁ,49,dámská krejčí,Sezemice
+15,3,VOJTĚCH ANTOŠ,29,inženýr vývoje a výzkumu,Praha
+15,4,NIKOLA NESTOROSKÁ,23,studentka UJEP,Ústí nad Labem
+15,5,MARTIN KVAPIL,46,vedoucí úklidové firmy,Sezemice
+15,6,IVA KONVALINOVÁ,30,kadeřnice,Praha
+15,7,MONIKA VLASÁKOVÁ,28,číšnice,Sezemice
+15,8,ELIŠKA WOJNAROVSKA,29,cukrářka,Sezemice
+15,9,TOMÁŠ VLASÁK,25,poštovní doručovatel,Holice
+15,10,ADÉLA KONVALINOVÁ,35,"na mateřské ""dovolené""",Holice
+15,11,LUKÁŠ DOUBEK,35,specialista kvality v automobilce,Starý Kolín
+15,12,VLADIMÍR VEPŘEK,37,policista,Pardubice
+16,1,prof. RNDr. IVAN HOLOUBEK CSc.,68,profesor chemie životního prostředí PřF MU,Brno
+16,2,prof. RNDr. VIKTOR KANICKÝ DrSc.,65,profesor Ústavu chemie PřF MU,Brno
+16,3,doc. RNDr. VÁCLAV DOMBEK CSc.,58,docent na VŠB-TUO,Šenov
+16,4,prof. Ing. BLAHOSLAV MARŠÁLEK CSc.,54,vedoucí oddělení v Botanickém ústavu AV ČR,Brno
+16,5,prof. Ing. JANA HAJŠLOVÁ CSc.,66,vedoucí Laboratoře bezpečnosti potravin VŠCHT,Praha
+16,6,doc. Ing. VLADIMÍR KOČÍ Ph.D.,46,děkan Fakulty technologie ochrany prostředí VŠCHT,Praha
+16,7,doc. Ing. RADIM VÁCHA Ph.D.,52,ředitel Výzkumného ústavu meliorací a ochrany půdy,Praha
+16,8,prof. RNDr. ZBYNĚK PROKOP Ph.D.,45,profesor RECETOX MU v Brně,Brno
+16,9,prof. Ing. KAREL VENTURA CSc.,67,vedoucí Katedry analytické chemie FChT VŠCHT,Pardubice
+16,10,prof. PharmDr. PETR BABULA Ph.D.,40,přednosta Fyziologického ústavu LF MU,Brno
+16,11,RNDr. JIŘINA MACHÁČKOVÁ Ph.D.,47,výzkumná pracovnice v soukromé společnosti,Liberec
+16,12,"prof. MUDr. JIŘÍ ŠPAČEK Ph.D., IFEPAG",61,přednosta Porodnické a gynekologické kliniky,Hradec Králové
+16,13,prof. Mgr. MAREK KOUTNÝ Ph.D.,46,vedoucí Ústavu inženýrství ochrany ŽP,Zlín
+16,14,prof. Ing. JAN TŘÍSKA CSc.,74,pracovník Ústavu výzkumu globální změny AV ČR,České Budějovice
+16,15,prof. Ing. PAVEL JANOŠ CSc.,62,profesor Fakulty životního prostředí UJEP,Ústí nad Labem
+16,16,Ing. LENKA SCHREIBEROVÁ,32,výzkumník ve Výzkumném ústavu bezpečnosti práce,Ostrava
+16,17,Mgr. ROBERT SKEŘIL Ph.D.,40,datový analytik v soukromé společnosti,Brno
+16,18,Ing. MICHAEL TUPÝ Ph.D.,39,koordinátor dotačních projektů pro vědu a výzkum,Zlín
+16,19,Mgr. JIŘÍ BÍLEK Ph.D.,51,analytik a projektový manažer na VŠB-TUO,Ostrava
+16,20,doc. RNDr. IVAN NOVOTNÝ CSc.,76,analytický chemik a překladatel,Praha
+17,1,JIŘÍ VÍTEK,45,"místostarosta MČ Praha 8, předseda Patriotů ČR",Praha
+17,2,DAGMAR KRYLOVÁ,63,zaklad. a předs. Klubu labužnických pohodářů z.s.,Týn nad Vltavou
+17,3,VLADIMÍR RYBÁK,58,podnikatel,Vlastec
+17,4,FRANTIŠEK HOLÝ,47,místostarosta Jáchymova,Jáchymov
+17,5,Ing. MICHAL KLUSÁČEK,39,"letecký inženýr, předseda ČSNS",Praha
+17,6,PETR DUCHEK,55,zastupitel MČ Praha 21,Praha
+17,7,Ing. KAREL JANKO,75,zastupitel Podolanky,Podolanka
+17,8,KRISTÝNA HURŤÁKOVÁ,39,"tlumočnice, překladatelka",České Budějovice
+17,9,Ing. MARIE PAUKEJOVÁ,64,zaklad. a předsedkyně spolku Jihočeská RŮŽE z.s.,České Budějovice
+17,10,Mgr. MICHAL JANOVSKÝ,50,"zastupitel MČ Praha 8, učitel",Praha
+17,11,MILOSLAV ČERMÁK,45,"starosta Všestud, podnikatel",Všestudy
+17,12,Mgr. MICHAL ŠEVČÍK,33,"zastupitel, technicko-hospodářský pracovník",Brno
+17,13,Mgr. JAN NEUMAN,53,podnikatel,Praha
+17,14,JIŘÍ SEMMELBAUER,42,živnostník,Příbram
+17,15,JAROSLAV TREGLER,53,letecký mechanik,Praha
+17,16,MARTINA HORŇÁKOVÁ,47,podnikatelka,Hřebeč
+17,17,Bc. JIŘÍ VARGA,37,projektant,Sokolov
+17,18,KAREL HAJOŠ,46,živnostník,Praha
+17,19,JURAJ SEMAN,51,řidič,Brno
+17,20,IVAN HOLKUP,30,manažer,Rožmitál na Šumavě
+17,21,LIBUŠE BENEŠOVÁ,55,OSVČ,Jihlava
+17,22,MILAN BUBAL,43,daňový poradce,České Budějovice
+17,23,RICHARD TŮMA,44,OSVČ,Kutná Hora
+17,24,DANIEL BOBEK,45,živnostník,Praha
+17,25,ANTONÍN KRÁTKÝ,36,řidič,Hartmanice
+17,26,ZDENĚK NAJER,43,podnikatel,Praha
+17,27,JOSEF ŠTĚPÁNEK,56,OSVČ,Děčín
+17,28,Ing. PETR POSPĚCH,52,trenér softbalového klubu,Praha
+18,1,PETR KOVÁČ,46,podnikatel,Brno
+18,2,OLDŘICH DUCHOŇ,56,podnikatel,Brno
+18,3,LUKÁŠ DVOŘÁK,24,řidič,Brno
+19,1,Ing. VÁCLAV KUBATA,57,býv. předs. Stálé delegace PČR do PS Rady Evropy,Praha
+19,2,prof. MUDr. EVA SYKOVÁ DrSc.,74,"vědkyně, lékařka, senátorka v období 2012 - 2018",Praha
+19,3,Ing. Bc. TOMÁŠ KOTORA,53,"ředitel plaveckého bazénu Plzeň, ekonom",Plzeň
+19,4,Ing. VAN SANG TRAN,33,majitel integračního centra,Most
+19,5,"doc. RNDr. ALEXANDR CHVÁTAL DrSc., MBA",56,řídící prac. pro vědu a výzkum v oblasti zdravot.,Praha
+19,6,PAVLÍNA SCHWARZOVÁ,41,místostarostka města Nejdek,Nejdek
+19,7,Mgr. RICHARD MATIAŠEK,37,"člen Rady MO Ústí nad Labem, fotograf",Ústí nad Labem
+19,8,MUDr. OTA STAŇO,62,primář ortopedie,Chomutov
+19,9,MUDr. TOMÁŠ KRYSTL,55,"diabetolog, předs. Výb. pro kulturu a sport Letkov",Letkov
+19,10,MUDr. KLÁRA POHANKOVÁ,32,"lékařka, Masarykova nemocnice Ústí nad Labem",Ústí nad Labem
+19,11,PAVEL VOSTŘÁK,46,"hokejový trenér mládeže, býv. reprezentant ČR",Plzeň
+19,12,MUDr. HANA NESTÁVALOVÁ,65,"lékařka, radiodiagnostika",Chomutov
+19,13,PhDr. BORIS KUDLÁČEK,51,marketinkový specialista,Vysoké Chvojno
+19,14,MUDr. VĚRA PAVLÍČKOVÁ,62,"chirurg, zakladatelka ženského hokeje v Plzni",Plzeň
+19,15,Ing. MICHAL KASAL,47,"ekonom, zastupitel města Teplice",Teplice
+19,16,JAN KUCHAŘ,45,starosta města Františkovy Lázně,Františkovy Lázně
+19,17,MUDr. MIROSLAVA PRŮCHOVÁ,56,"lékařka, předsedkyně spolku Větráme školy",Rokycany
+19,18,Bc. ALEŠ TOLAR,42,starosta Městského obvodu Plzeň 9 - Malesice,Plzeň
+19,19,Mgr. MICHAL ŠEVCOVIC,54,"náměs. primátora města Ústí nad Labem, řed. ZŠ",Ústí nad Labem
+19,20,PhDr. MICHAL GUSE,42,"bývalý mistr ČR v cyklistice, pedagog, trenér",Louny
+19,21,Ing. PETR BENDA,48,provozovatel sportovních areálů,Teplice
+19,22,Mgr. KAREL GÖTZ,54,"finanční poradce, fotograf",Plzeň
+19,23,Mgr. HELENA KUBCOVÁ,63,"pedagog, trenérka",Ústí nad Labem
+19,24,Ing. PAVEL KLEPÁČEK,50,místostarosta města Aš,Aš
+19,25,Ing. JAN POSTRÁNSKÝ,42,ředitel Interhotelu Bohemia,Ústí nad Labem
+19,26,JIŘÍ UHLÍK MBA,49,místostarosta Městský obvod Plzeň 1,Plzeň
+19,27,PETR AJŠMAN,42,"OSVČ, před. míst. sdruž. PRO Zdraví a Sport Toužim",Toužim
+19,28,VLASTA ŠTOCHLOVÁ,55,předsedkyně SVJ,Jirkov
+21,1,Ing. VLADAN ŠEVČÍK,44,"energetik a jednatel vinařství, člen rady MZH",Olšany
+21,2,RNDr. MIRIAM NÝVLTOVÁ FIŠÁKOVÁ Ph.D.,44,vědecká pracovnice Akademie věd ČR,Brno
+21,3,PhDr. JIŘÍ KACETL,43,zastupitel města a historik,Znojmo
+21,4,Mgr. EVA DARMOVZALOVÁ,39,zastupitelka obce a učitelka,Bošovice
+21,5,Mgr. BOHUMIL ŠUHAJ,38,zastupitel města a učitel,Dačice
+21,6,Mgr. LADA BASTLOVÁ,39,zastupitelka obce a soc. prac. v nev. nezisk. org.,Račice-Pístovice
+21,7,Mgr. ONDŘEJ HÝSEK Ph.D.,39,"zastup. MČ a zást. ředitele gymnázia, předs. MZH",Brno
+21,8,Ing. DANA STAŇKOVÁ,36,podnikatelka v zemědělství,Suchdol nad Lužnicí
+21,9,Mgr. MILAN TOČÍK,49,zastupitel města a ředitel gymnázia,Dačice
+21,10,Mgr. ONDŘEJ MLEJNEK Ph.D.,37,"zastupitel obce, archeolog a univerzitní učitel",Ochoz u Brna
+21,11,"PAVEL TRČALA B.A., M.A.",41,podnikatel a místopředseda MZH,Brno
+21,12,VLADIMÍRA MELOUNOVÁ,66,podnikatelka,Brno
+21,13,Mgr. Ing. JIŘÍ KOLÁŘSKÝ,61,právník na rektorátu univerzity a člen rady MZH,Brno
+21,14,JUDr. JAROSLAV KUPKA,66,právník u Veřejného ochránce práv,Vyškov
+21,15,doc. PhDr. BOHUSLAV KLÍMA CSc.,69,"archeolog, univerzitní učitel a člen rady MZH",Brno
+21,16,PETR CHŇOUPEK,47,zastupitel obce a šéfredaktor,Mastník
+21,17,Mgr. ANNA LUDÍKOVÁ,65,učitelka,Bošovice
+21,18,Ing. JIŘÍ PELKA M.A.,65,lingvista a člen rady MZH,Staré Město
+21,19,PaedDr. DALIMILA HODAŇOVÁ,63,učitelka,Brno
+21,20,ZDENĚK KUČÍREK,63,důchodce,Jihlava
+21,21,PETR PLCHÚT,41,přípravář výroby,Třebíč
+21,22,KAREL ŠMERDA,47,zámečník,Rousínov
+21,23,Ing. ZDENĚK ALBRECHT CSc.,66,geograf a kartograf,Brno
+21,24,ROMAN ZAHRADNÍČEK,45,podnikatel,Brno
+21,25,Ing. MARTIN GREPL,26,energetik,Pačlavice
+21,26,FRANTIŠEK VERBÍK,22,pracovník v médiích,Hrušky
+21,27,FRANTIŠEK PAŘÍZEK,74,strojař - konstruktér,Brno
+21,28,BEDŘICH NĚMEČEK,52,podnikatel,Jihlava
+22,1,MUDr. DAVID RATH,53,lékař,Hostivice
+22,2,Mgr. STANISLAV HUML,63,bezpečnostní expert,Brandýs nad Labem-Stará Boleslav
+22,3,Mgr. JANA VOLFOVÁ,61,"předsedkyně strany, učitelka",Praha
+22,4,JUDr. JAN RYTÍŘ Ph.D.,50,právník,Olomouc
+22,5,MUDr. VLADIMÍR DRYML,67,lékař,Vrchlabí
+22,6,IVA PROCHÁZKOVÁ,49,zdravotní sestra,Teplice
+22,7,"JUDr. Ing. KAREL NEDBÁLEK Ph.D., MBA",62,"právník, ekonom",Zlín
+22,8,Mgr. MIROSLAV TIMURA,60,právník,Mnichov
+22,9,Mgr. JANA BORKOVCOVÁ,38,projektová konzultantka,Osová Bítýška
+22,10,JANA ŠTABLOVÁ,49,"prodavačka, invalidní důchodkyně",Ostrava
+22,11,ROMAN BAKALA,45,živnostník,Plzeň
+22,12,PETR HUDLÍK,64,zastupitel městské části Starý Lískovec,Brno
+22,13,Ing. ROMAN BUREŠ,57,technik,České Budějovice
+22,14,PAVEL HAVRÁNEK,43,"zastupitel obce, IT specialista",Ptice
+22,15,ANDRÉA KOMÁRKOVÁ,59,invalidní důchodkyně,Brno
+22,16,BOHUMIL FERENC,51,živnostník,Olomouc
+22,17,JIŘÍ JISKRA,39,automechanik,Mšené-lázně
+22,18,NADĚŽDA MALINOVÁ,40,asistentka podnikatele,Slušovice
+22,19,MAREK VOKŠAY,48,živnostník,Ústí nad Labem
+22,20,JOSEF ZÝKA,49,zastupitel obce,Letkov
+22,21,MAREK MACEJÁK,48,místostarosta obce,Pňovice
+22,22,Ing. PAVEL VOJÍK,52,státní zaměstnanec,Úžice
+22,23,LIBOR SKRUŽNÝ,52,tiskař,Zlonín
+22,24,MILAN ROHÁČ,35,administrativní pracovník na univerzitě,Praha
+22,25,ALENA ČÁSLAVSKÁ,38,účetní,Hostivice
+22,26,GABRIELA HANČLOVÁ,56,zaměstnankyně,Zlín
+22,27,Bc. RADOMIL BEK,42,ekonom,Kraslice
+22,28,DAVID ŠTĚPÁN,55,"předseda strany, učitel",Teplice
+23,1,DANIEL KONEČNÝ,46,dotační poradce,Praha
+24,1,JUDr. PAVEL TELIČKA,53,místopředseda Evropského parlamentu,Jíloviště
+24,2,Ing. PETR JEŽEK,54,předseda výboru a delegace Evropského parlamentu,Praha
+24,3,Mgr. ALEŠ NOVÁK LL.M.,47,"právník, advokát",Malé Kyšice
+24,4,Mgr. MICHAELA TEJMLOVÁ LL.M.,42,"právnička, mediátorka a zastup. v Jablonci nad N.",Jablonec nad Nisou
+24,5,Mgr. MARTIN PŘEVRÁTIL,47,sociolog a zastupitel MČ Praha - Březiněves,Praha
+24,6,PhDr. Mgr. MONA NECHVÁTALOVÁ,58,právnička a soudní překladatelka,Brno
+24,7,Ing. KATEŘINA NOVOTNÁ,31,poradkyně poslance Evropského parlamentu,Praha
+24,8,Ing. et Ing. MICHAEL PASCAL VEČEŘ,31,vedoucí odd. rozvoj. proj. ve staveb. MPO ČR,Praha
+24,9,Mgr. Bc. MICHAEL ŽIVĚLA,28,právník,Vyškov
+24,10,EVA JESLÍNKOVÁ,39,zaměstnanec zahr. výboru Evropského parlamentu,Praha
+24,11,Ing. LUBOMÍR NENTVICH MBA,60,ekonom,Praha
+24,12,Mgr. JAN ČULÍK,33,podnikatel,Tábor
+24,13,Mgr. MICHAELA CICHOŇOVÁ,42,ekolog,Unhošť
+24,14,Mgr. KAREL DVOŘÁK,54,pedagog a mezinárodní rozhodčí,Loděnice
+24,15,JAKUB ČERVENKA MSc.,25,ekonom,Praha
+24,16,Bc. JAN HAVLÍČEK,29,podnikatel,Brandýs nad Labem-Stará Boleslav
+24,17,PharmDr. LUKÁŠ ZAHÁLKA Ph.D.,31,farmaceut,Humpolec
+24,18,MARTIN JÍCHA,24,asistent advokáta,Nučice
+24,19,JÁN MICHALČÁK MSc.,25,politolog,Stříbro
+24,20,ANTONIA SABATHILOVÁ,22,studentka (Physiotherapie),Janovice nad Úhlavou
+24,21,Mgr. MILAN KOLÁČEK,26,advokátní koncipient,Brno
+25,1,Mgr. VÍT JEDLIČKA,35,prezident Liberlandu,Praha
+25,2,Ing. TOMÁŠ PAJONK,37,"před. st. Svobodní, podnik., vývojář, kr. zastup.",Zašová
+25,3,BOLESLAV BUZEK,49,"před. str. Radostné Česko, manažer IT společnosti",Frýdlant nad Ostravicí
+25,4,MUDr. MIROSLAV HAVRDA,55,"lékař, zakladatel podiatrie v ČR",Hradec Králové
+25,5,Bc. DAVID POKORNÝ,24,"zastupitel města Brna, fyzik",Brno
+25,6,LIBOR VONDRÁČEK,24,"správce e-shopu, student práv, moderátor rádia",Jindřichův Hradec
+25,7,Ing. JAROSLAV MARSA MBA,58,projektový manažer,Praha
+25,8,Ing. NADĚŽDA ZÍMOVÁ,57,daňová poradkyně,Kladno
+25,9,Ing. Mgr. PAVEL MISES,32,"IT konzultant, zastupitel",Brno
+25,10,Mgr. TERÉZIA MLÝNKOVÁ IŠKOVÁ,28,"právnička, radní města Hodonín",Hodonín
+25,11,Mgr. ROMAN KŘÍŽ,51,"živnostník, právník, místop. Spr. rady Mensa gymn.",Praha
+25,12,MAREK ŠOŠKA,21,"zastupitel, referent právního oddělení",Ladná
+25,13,Ing. MOJMÍR MIKULÁŠ,51,"stavební inženýr, zastupitel MČ Praha 3",Praha
+25,14,Mgr. JIŘÍ STRACHOTA CSc.,72,fyzik,Golčův Jeníkov
+25,15,Bc. MARTIN BAROCH,47,podnikatel v geodézii,Kladno
+25,16,Ing. JIŘÍ ZAPLETAL,38,"jednatel společnosti, administr. zadávacích řízení",Ostrava
+25,17,Ing. OLDŘICH PEPRLA,35,podnikatel,Brno
+25,18,DENISA ZLÁMALOVÁ,22,studentka,Brno
+25,19,Bc. VÍTĚZSLAV STANOVSKÝ,46,podnikatel,Krnov
+25,20,Ing. ROMAN BARTOLŠIC,26,manažer,Brno
+25,21,PhDr. Mgr. MAREK HEJDUK LL.M.,30,ved. odd. práv. odb. správ. agend ÚMČ Praha 4,Praha
+25,22,Ing. ZENON KUDER,30,systémový inženýr,Bohumín
+25,23,MICHAL MALÝ,63,ředitel společnosti,Praha
+25,24,Ing. ZDENĚK PŘIKRYL,53,majitel obchodu,Pardubice
+25,25,Ing. JOSEF LEBDUŠKA,68,soukromý podnikatel,Chrudim
+25,26,Ing. PHILIP PRENTIS Ph.D.,38,programátor,Veselí nad Lužnicí
+25,27,Ing. VÁCLAV VESELKA,28,marketingový specialista,Praha
+25,28,Ing. VLADIMÍR GREGOR,61,ekonom,Děčín
+26,1,JUDr. JIŘÍ POSPÍŠIL,43,"právník, př. spr. rady Museum Kampa, europoslanec",Praha
+26,2,JUDr. STANISLAV POLČÁK,39,"VŠ pedagog, př. cel. svazu SMS ČR, europoslanec",Praha
+26,3,RNDr. LUDĚK NIEDERMAYER,53,"europoslanec, býv. viceguvernér České nár. banky",Měchenice
+26,4,Ing. RADIM SRŠEŇ Ph.D.,39,"starosta, VŠ učitel, zást. ČR ve Výboru regionů EU",Dolní Studénky
+26,5,Mgr. PETR ŠTĚPÁNEK CSc.,53,"přírodovědec, star. MČ P-4, př. Strany zelených",Praha
+26,6,PhDr. MAREK ŽENÍŠEK Ph.D.,40,"výkonný ředitel think-tanku TOPAZ, politolog",Plzeň
+26,7,MUDr. GABRIELA PECKOVÁ,62,lékařka,Praha
+26,8,Ing. PAVEL PAVEL,62,experimentální archeolog,Strakonice
+26,9,Mgr. et Mgr. PAVLÍNA SPRINGEROVÁ Ph.D.,42,děkanka Filosofické fakulty Univerzity HK,Hradec Králové
+26,10,PhDr. KATEŘINA BURSÍKOVÁ JACQUES,47,ředitelka byznysového a vzdělávacího centra,Praha
+26,11,VOJTĚCH VAIS,26,právník,Kosmonosy
+26,12,Ing. PETR KULHÁNEK,48,"personalista, místopř. Svazu měst a obcí pro EU",Karlovy Vary
+26,13,Mgr. KRYŠTOF ČIŽINSKÝ,37,právník,Praha
+26,14,JUDr. KAROLÍNA ŽÁKOVSKÁ Ph.D.,43,"právnička, VŠ pedagožka, zast. města Ústí nad L.",Ústí nad Labem
+26,15,prof. RNDr. JAKUB HRUŠKA CSc.,54,"přírodovědec, vysokoškolský pedagog",Praha
+26,16,Mgr. JOSEF HORINKA,50,"starosta Hrádku nad Nisou, zast. Liber. kraje",Hrádek nad Nisou
+26,17,RADOVAN AUER,44,ředitel veletrhu Svět knihy,Šumperk
+26,18,Ing. MICHAELA OPLTOVÁ,33,starostka obce Kozolupy,Kozolupy
+26,19,Mgr. Ing. ROMAN HAKEN,56,"poradce, Platforma nestát. neziskových organizací",Praha
+26,20,Mgr. MATOUŠ VENCÁLEK,30,"religionista, před. Strany zelených v Jihomor. kr.",Brno
+26,21,Bc. LUKÁŠ OTYS MBA,34,"mediální konzultant, podnikatel",Karlovy Vary
+26,22,Ing. DANIEL ČERNÝ,46,obchodní ředitel,Chomutov
+26,23,Bc. TOMÁŠ IGNÁC FÉNIX,38,"soukr. ekozemědělec, vicep. Evr. rady ml. zeměděl.",Pravice
+26,24,Ing. Mgr. HANA VACKOVÁ,64,středoškolská učitelka,Olomouc
+26,25,Mgr. TEREZIE RADOMĚŘSKÁ,50,"překladatelka, spisovatelka",Praha
+26,26,"PETR KUTÍLEK M.A., M.S.",43,"VŠ učitel, zastupitel, zahraničněpolitický expert",Praha
+26,27,Mgr. RADEK ZAPLETAL,47,"technik BOZP a PO, podnikatel",Velký Vřešťov
+26,28,ALOIS ULLMANN,34,"fin. spec. v oboru IT, místopř. strany iČesko",Praha
+27,1,Bc. MARCEL KOLAJA,38,"bojovník za otevřený software, manažer",Brno
+27,2,Bc. MARKÉTA GREGOROVÁ,26,"ukulelistka, předsedkyně Evropské pirátské strany",Brno
+27,3,Mgr. MIKULÁŠ PEKSA,32,"reprezentant Pirátů v PSP ČR, biofyzik",Litoměřice
+27,4,LUKÁŠ BLAŽEJ,23,"ekolog, právní asistent se zaměřením na právo ŽP",Ústí nad Labem
+27,5,Bc. JANA KOLÁŘÍKOVÁ,32,školitelka vzděl. kurzů pro učitele v rozv. zemích,Písek
+27,6,Ing. ONDŘEJ KOLEK Ph.D.,40,invenční výzkumník a technolog vývoje,Pěnčín
+27,7,Bc. NINA ŠPITÁLNÍKOVÁ,31,"čl. výzk. centra PRCP, koreanistka, spisovatelka",Kladno
+27,8,Ing. EVA TICHÁ,57,"aktivistka proti korupci, ekonomka, zastupitelka",Praha
+27,9,JUDr. LUKÁŠ LEV ČERVINKA,27,"ústavní právník, analytik AMO se zam. na evr. obr.",Jablonec nad Nisou
+27,10,Bc. MICHAL GILL,32,"historik, překladatel, mediální analytik",Karviná
+27,11,Ing. JIŘÍ HOSKOVEC,27,forenzní specialista se zaměřením na finan. zločin,Praha
+27,12,Mgr. DAVID FRANTIŠEK WAGNER,30,"didaktik, poslanecký poradce",Praha
+27,13,JUDr. MgA. MICHAL ŠALOMOUN Ph.D.,44,"advokát se zaměřením na autorské právo, poradce",Třebíč
+27,14,Mgr. MAGDALÉNA DAŇKOVÁ,37,"učitelka, zastupitelka města Plzeň",Plzeň
+27,15,JUDr. Bc. MATEJ ŠANDOR Ph.D.,34,"právník, manažer, radní Prahy 4",Praha
+27,16,PhDr. LINDA MATUŠKOVÁ Ph.D.,36,"podnikatelka, fotografka, pedagožka na VŠ a VOŠ",Kroměříž
+27,17,Ing. PETR JIRMAN,41,"auditor Evropské komise, externí poradce MF",Jablonec nad Nisou
+27,18,Mgr. DAN LEŠTINA,29,výzkumník a doktorand v oboru tropické ekologie,České Budějovice
+27,19,FRANTIŠEK KOPŘIVA,23,"poslanec PSP ČR, člen Výboru pro evr. záležitosti",Mladá Boleslav
+27,20,Mgr. HYNEK MELICHAR Ph.D.,36,univerzitní pedagog mezinár. vztahů a bezpečnosti,Olomouc
+27,21,Mgr. JIŘÍ JANSA,34,"pojistný matematik, makroekonom",Chrudim
+27,22,Ing. JAN LIČKA,37,"logistik průmyslové výroby a skladování, statkář",Struhařov
+27,23,MICHAEL POLÁK,45,provozovatel opt. a bezdrátových sousedských sítí,Praha
+27,24,Ing. LADISLAV KOUBEK,39,expert OSN na prevenci migrace,Praha
+27,25,PAVEL TAUER,50,majitel prodejny a servisu,Praha
+27,26,Ing. ŠIMON BARCZI MDP,31,poradce pro start-upy a projekty dig. ekonomiky,Praha
+27,27,Ing. MILOŠ VLACH,35,"společník v softwarové firmě, zastupitel Prahy 6",Praha
+27,28,Mgr. Ing. JIŘÍ LEHEJČEK Ph.D.,32,viceprezident evr. org. ekologického zemědělství,Strančice
+28,1,MUDr. IVAN DAVID CSc.,66,"lékař, pedagog",Praha
+28,2,"PhDr. Ing. Mgr. JAN HRNČÍŘ MBA, LL.M.",42,"VŠ pedagog, poslanec PS PČR",Blansko
+28,3,JANA PUPAVOVÁ,34,účetní,Nové Hrady
+28,4,"Ing. PAVEL DOPITA LL.M., MBA",54,"IT specialista, VŠ pedagog, zast. města Prostějova",Prostějov
+28,5,MUDr. KAMIL BĚRSKÝ,60,"lékař, zastupitel města Opavy",Opava
+28,6,Bc. ELVÍRA HAHNOVÁ,41,zaklad. a řed. o.p.s. pro vzděl. a zaměstnanost,Chomutov
+28,7,Bc. ROBERT VAŠÍČEK,39,"mediální poradce, zastup. MČ Praha 11",Praha
+28,8,Ing. HYNEK BLAŠKO,63,generálmajor Armády ČR v.v.,Veltruby
+28,9,Bc. JIŘÍ NOVOTNÝ,43,odborný pracovník Úřadu práce ČR,Příbram
+28,10,Bc. JOHN VOSTENAK MBA,61,finanční a realitní poradce,Liberec
+28,11,LUDVÍK LUKEŠ,53,ředitel hotelu,Kolová
+28,12,Ing. RADEK HENNER,55,plukovník gšt. Armády ČR v.z.,Rybníček
+28,13,IVANA SCHUBERT DICKFELD,47,spisovatelka,Trutnov
+28,14,JUDr. PETR PAUL,69,"právník, zastupitel města Jihlavy",Jihlava
+28,15,JOSEF NOS,70,"pedagog, spisovatel, hudebník",Kutná Hora
+28,16,Ing. MARIE POŠAROVÁ,39,finanční analytička,Klatovy
+28,17,FRANTIŠEK MITTERWALD,37,"živnostník, tenisový trenér",Kostomlaty pod Milešovkou
+28,18,Ing. VLASTIBOR ČERMÁK CSc.,63,vysokoškolský pedagog,Vohančice
+28,19,Ing. TOMÁŠ DOLEŽAL,46,ekonom,Kamenice
+28,20,Ing. JAROSLAV HORÁK,67,"soudní znalec v oboru nemov., zast. města Šumperk",Šumperk
+28,21,doc. Ing. arch. PhDr. KAREL SCHMEIDLER CSc.,68,"architekt - urbanista, sociolog, VŠ pedagog",Brno
+29,1,JIŘÍ ČERNOHORSKÝ,48,"předseda spolku ČEST, SVOBODA, RESPEKT",Brno
+29,2,JAROSLAV ČEJKA,33,programátor,Strakonice
+29,3,Ing. JAROSLAV DROBNÝ,45,ekonom,Rakovník
+29,4,RNDr. RADOSLAV ŠTĚDROŇ,64,"geograf, přírodovědec",Ostrava
+29,5,Mgr. MILENA MÍČOVÁ,53,středoškolská učitelka,Doubravice nad Svitavou
+29,6,PETR KANIA,56,účetní,Praha
+29,7,MIROSLAV STARÝ,73,šéfredaktor Severočeské pravdy,Mimoň
+29,8,Mgr. MICHAL ONDREJ,40,masér,Kardašova Řečice
+29,9,MONIKA KIJOVSKÁ,48,sociální pracovnice,Havířov
+29,10,ZBYNĚK CINCIBUS,77,místopředseda Klubu českého pohraničí,Česká Lípa
+29,11,Ing. IVAN KRATOCHVÍL pplk. v z.,60,voják,Slaný
+29,12,Mgr. IRENA MARVANOVÁ,56,středoškolská učitelka,Milevsko
+29,13,RNDr. VRATISLAV DATEL CSc.,72,podnikatel,Praha
+29,14,JANA HRUŠKOVÁ,60,zpěvačka,Česká Skalice
+29,15,JIŘÍ FRANZ,64,kameraman,Plzeň
+29,16,MARTA SUZAMA,60,korespondent INTERNAT. PRESS EUROP. NEWS AGENCY,Praha
+29,17,JAKUB ŠKODÍK,78,předseda SPOLKU POŠKOZENÝCH OBČANŮ,Pardubice
+29,18,HELENA PAVLOVCOVÁ,62,zdravotní sestra,Karviná
+29,19,Ing. PAVEL MUŽNÝ,67,informatik,Olomouc
+29,20,BŘETISLAV SVOBODA,52,provozní manažer sportovně-rekreačního areálu,Ostrava
+29,21,Ing. PAVEL REJF CSc.,68,vědecký pracovník,Praha
+29,22,EVA HŮLKOVÁ,65,koordinátorka INSTITUTU ALENY VITÁSKOVÉ,Praha
+29,23,Ing. Bc. JAN BRABEC,49,pojišťovací makléř,Písek
+29,24,ILONA ŠEDIVÁ,53,expediční pracovník,Brno
+29,25,IVA VALDMANOVÁ,63,podnikatelka,Ostrava
+29,26,ALICE VRABCOVÁ,53,podnikatelka,Plzeň
+29,27,ROMAN POLUDA,52,údržbář,Ostrava
+29,28,PhDr. VLADIMÍRA VÍTOVÁ Ph.D.,56,předsedkyně polit. hnutí ALIANCE NÁRODNÍCH SIL,Praha
+30,1,DITA CHARANZOVÁ,44,poslankyně Evropského parlamentu,Praha
+30,2,MARTINA DLABAJOVÁ,42,poslankyně Evropského parlamentu,Zlín
+30,3,Ing. MARTIN HLAVÁČEK,39,"ekonom, manažer",Praha
+30,4,Ing. RADKA MAXOVÁ,50,poslankyně Parlamentu České republiky,Tábor
+30,5,Ing. ONDŘEJ KNOTEK,34,průmyslový manažer,Mariánské Lázně
+30,6,Ing. ONDŘEJ KOVAŘÍK,38,hlavní poradce delegace ANO v Evropském parlamentu,Velké Karlovice
+30,7,Mgr. KAREL FILIPČÍK,43,ředitel odboru informatiky,Vejprnice
+30,8,Ing. DANIEL STRUŽ,50,produktový ředitel,Brno
+30,9,Mgr. KAMILA BLÁHOVÁ,42,starostka města,Litvínov
+30,10,MILAN ZAVADIL,43,interim manager,Spojil
+30,11,PETRA BAŠOVÁ,25,referent na Ministerstvu financí,Náchod
+30,12,Mgr. Ing. TOMÁŠ SÝKORA,51,"politolog, rozhodce, ekonom",Olomouc
+30,13,PhDr. MARIE KAUFMANN,60,"expertka EU, mezinárodní poradkyně",Městec Králové
+30,14,Ing. PETR ROZMAJZL,31,projektový a IT manažer,Chrastava
+30,15,"Ing. LUKÁŠ ŠTĚPÁNEK Ph.D., MSc.",37,ekonom a podnikatel,Praha
+30,16,Ing. ERIK MIKUŠ EUR ING,44,programový manažer ICT,Modřice
+30,17,Ing. JAROSLAV KUCHAŘ,62,"válečný veterán, OSVČ",Olomouc
+30,18,Ing. JAN JAROLÍM,44,starosta města,Dvůr Králové nad Labem
+30,19,Ing. MAREK KOCÁNEK,34,produktový manažer,Litoměřice
+30,20,Bc. MARKÉTA PLESNÍKOVÁ,28,tajemnice,Praha
+30,21,Ing. LENKA STŘÁLKOVÁ,51,členka glob. týmu pro komunikaci v nadnár. korp.,Rožnov pod Radhoštěm
+30,22,Ing. MARCEL KAŠTOVSKÝ MBA,40,ekonom,Jindřichův Hradec
+30,23,Mgr. LUKÁŠ FIEDLER,31,advokát,Hradec Králové
+30,24,Ing. TOMÁŠ JANČA,26,"výkonný ředitel společnosti, ekonom",Uherské Hradiště
+30,25,Ing. JAROSLAV KYTÝR,56,poslanec Parlamentu České republiky,Svitavy
+30,26,Mgr. TOMÁŠ OPATRNÝ,34,advokát,Kroměříž
+30,27,Ing. JAN ŘEHOUNEK,44,poslanec Parlamentu České republiky,Pardubice
+31,1,Ing. PAVEL ŠRÁMEK MBA,54,farmář a podnikatel,Plzeň
+31,2,Bc. PETR ŠRÁMEK,24,farmář a student,Plzeň
+31,3,Ing. IVAN MITTNER,70,podnikatel,Jaroměřice nad Rokytnou
+31,4,Bc. LUKÁŠ JÍCHA,24,farmář a student,Chrást
+31,5,Ing. JIŘÍ ZÝKA,52,manažer,Hůry
+31,6,Bc. MICHAL KAŇÁK,24,projektový manažer,Zruč-Senec
+31,7,VLADISLAV MITTNER,43,office manažer,Praha
+31,8,MARTIN BOREČEK,21,podnikatel,Líně
+31,9,JAN KOCMÁNEK,23,student,Plzeň
+31,10,MATOUŠ RYBKA Dis.,24,podnikatel a student,Plzeň
+31,11,MICHAELA OTTOVÁ,21,grafik a student,Pocinovice
+31,12,Bc. VOJTĚCH DĚDEK,23,student,Kopřivnice
+32,1,TOMÁŠ INGR,40,"jednatel společnosti, předseda strany Moravané",Pasohlávky
+32,2,PETR BYSTŘICKÝ,40,"technik kvality, místopředseda strany Moravané",Salaš
+32,3,doc. PhDr. JIŘÍ PERNES Dr.,70,historik,Brno
+32,4,MONIKA HRDLIČKOVÁ,28,"asistentka, předsedkyně Mladých Moravanů",Ježkovice
+32,5,JAROMÍR REPÍK,61,starosta města,Vracov
+32,6,Mgr. Bc. DUŠAN TEJKAL,43,velitel Městské policie,Bouzov
+32,7,FRANTIŠEK NOVOTNÝ,65,"ředitel společnosti, zastupitel města",Hodonín
+32,8,ŠÁRKA DUMIŠINCOVÁ,25,zpěvačka,Hodonín
+32,9,JIŘÍ KAMP,66,starosta města,Staré Město
+32,10,Ing. PAVEL DOHNAL,58,"řed. domova pro seniory, čest. před. str. Moravané",Hluk
+32,11,PETR MAHEL,43,dělník,Malá Morava
+32,12,Ing. ALEŠ SEKANINA,55,elektrotechnik,Bučovice
+32,13,Ing. JAROSLAV PAZOUR,82,"projektant energetických zařízení, důchodce",Klentnice
+32,14,Ing. Mgr. ONDŘEJ HETMÁNEK,40,stavební projektant,Ostrava
+32,15,JIŘÍ MAŠEK,67,programátor analytik,Hodonín
+32,16,Ing. VLADIMÍR VACULÍK,52,"OSVČ - stavební inženýr, znalec v oboru ekonomika",Uherský Brod
+32,17,Ing. ŠTĚPÁN PIRNUS,53,vedoucí strážník Městské policie,Pohořelice
+32,18,Ing. RADIM VAŠICA,39,projektant,Brno
+32,19,HANA BYSTŘICKÁ,35,mateřská dovolená,Salaš
+32,20,Mgr. ROBERT KEPRT,51,historik,Brno
+32,21,Mgr. PETR KNAP,50,advokát,Lednice
+32,22,VLADIMÍR HANZLÍK,46,jednatel společnosti,Bouzov
+32,23,NIKOLA TEJKALOVÁ MBA,22,pedagog - psychiatrie/detox VNOL,Újezd
+32,24,Ing. ZDENĚK ZBOŽÍNEK,69,projektant,Brno
+32,25,BERNARD FRANTA,73,důchodce,Boršice
+32,26,JAN FUČÍK,75,důchodce,Brno
+32,27,JAN NAJBRT,62,technický pracovník,Brno
+33,1,MATOUŠ BULÍŘ,36,grafik,Liberec
+33,2,ANNA BERNARDOVÁ,36,specialista zákaznického servisu,Liberec
+34,1,Mgr. et Mgr. ANDREA BYCHLOVÁ,34,"právnička, před. spolku Německý ovčák v nouzi z.s.",Kamenice
+34,2,Mgr. BARBORA TOCAUEROVÁ,43,tlumočník a lektor cizích jazyků,Opava
+34,3,Mgr. KVĚTA VOSTRUHOVÁ,32,učitelka,Český Brod
+34,4,LARISA ZANKEROVÁ,39,vedoucí psího domova Pod křídly anděla,Frýdlant nad Ostravicí
+34,5,PETRA KADLECOVÁ,46,předsedkyně spolku Adámkův zvířecí azyl z.s.,Žatčany
+34,6,PhDr. MARTINA NOVÁKOVÁ,36,klinický psycholog,Plzeň
+34,7,Ing. JAROSLAVA SOUČKOVÁ,53,"ekonomka, 1. místostarostka Pařezova",Pařezov
+34,8,JAROSLAV SEPP,46,"šéfkuchař, člen spolku HeRo Pomoc bez hranic z.s",Litoměřice
+34,9,Ing. PETR MLEZIVA,56,starosta Chodova,Chodov
+34,10,Ing. JAN HAVEL,62,"úředník, vedoucí ubytovacího zařízení",Stanovice
+34,11,JIŘÍ ANDERLE,49,"zastupitel městysu, předseda DSZ - ZA PRÁVA ZVÍŘAT",Klenčí pod Čerchovem
+34,12,JANA GRUSOVÁ,37,ošetřovatelka v psím domově Pod křídly anděla,Pňovice
+34,13,IVETA KOŠNAROVÁ,33,studentka fakulty agrobiologie,Trutnov
+34,14,BLANKA SCHRÖPFEROVÁ,42,vedoucí záchranné stanice S.O.S. Život pro koně,Mířkov
+34,15,ROMANA CERHOVÁ,53,"ošetřovatelka koní, obchodní zástupce",Plzeň
+34,16,RENATA SAJDLOVÁ,51,asistentka ředitele,Zásada
+34,17,ZDENĚK TOMKA,22,student Vysoké školy ekonomické,Letohrad
+34,18,ERIKA MIRVALDOVÁ,46,v domácnosti,Brno
+34,19,MIROSLAVA CIHLÁŘOVÁ,58,"OSVČ, fyzioterapeut",Chomutov
+34,20,JAN SLADKÝ,65,"OSVČ, místopř. DSZ - ZA PRÁVA ZVÍŘAT",Domažlice
+34,21,MARTA ZAJÍČKOVÁ,67,"v důchodu, strážník",Praha
+34,22,EVA DŮRASOVÁ,57,přípravář výroby,Břvany
+34,23,JAROSLAVA JEŘÁBKOVÁ,62,OSVČ,Plzeň
+34,24,MONIKA FEIXOVÁ,36,výrobce bižuterie,Držkov
+34,25,JANA MÜLLEROVÁ,45,administrátor,Dobřany
+34,26,Ing. ADÉLA MÁČIKOVÁ,31,marketingový pracovník,Praha
+34,27,JITKA KŮTOVÁ,42,"technik, členka spolku Klatovské kočky z.s.",Kdyně
+34,28,MONIKA FENDERLOVÁ,53,v domácnosti,Praha
+35,1,Bc. JAROSLAV BAŠTA,71,"publicista, diplomat",Praha
+35,2,MARTIN MAŘÁK,46,obchodní zástupce,Ostrava
+35,3,Ing. JOSEF PROKEŠ,67,brigádní generál v.v.,Slaný
+35,4,Ing. MICHAELA ŠÍMOVÁ,52,podnikatelka,Praha
+35,5,Ing. MIROSLAV CHOCHOLÁČEK,71,"vojenský pilot, plukovník v.v.",Drahňovice
+35,6,MARTINA ŠEBESTOVÁ,45,jednatelka společnosti,České Budějovice
+35,7,Mgr. Ing. RUDOLF MLÁDEK,62,právník,Praha
+35,8,Mgr. PETR SMORÁDEK,31,strážník MP Mníšek pod Brdy,Mníšek pod Brdy
+35,9,Ing. TOMÁŠ MAITNER,63,státní zaměstnanec,Slaný
+35,10,JAN KŮRKA,75,olympionik - důchodce,Plzeň
+35,11,Ing. VĚSTISLAV KŘENEK,67,OSVČ,Domažlice
+35,12,JAN BOLESLAVSKÝ,47,marketingový konzultant,Praha
+35,13,Mgr. JIŘÍ OSADNÍK,65,právník,Nový Jičín
+35,14,Ing. MIROSLAV BŘEŇ,68,bezpečnostní analytik,Slaný
+35,15,STANISLAV BRÍDZIK,59,technik elektroservisu,Nový Jičín
+35,16,Mgr. ALEŠ PAULY,54,záchranář,Lučany nad Nisou
+35,17,Mgr. STANISLAV KVASNIČKA,56,učitel ZŠ,Planá
+35,18,OTOKAR BAROŠ,67,starobní důchodce,Nový Jičín
+35,19,Doc. Ing. OTAKAR NĚMEC,65,profesor VŠE Praha,Praha
+35,20,Ing. IMRICH VETRÁK,59,státní zaměstnanec,Slaný
+35,21,Ing. JAN DLOUHÝ,55,skladník,Zemětice
+35,22,ALENA STRZELCOVÁ,56,příslušník ostrahy objektů,Ostrava
+35,23,VÁCLAV VOJTĚCH,52,námořník,Konstantinovy Lázně
+35,24,Bc. JIŘÍ PTÁČEK Dis.,51,bezpečnostní manažer,Zeleneč
+35,25,JIŘÍ MARTÍNEK,44,řidič MHD,Ostrava
+35,26,Ing. PETR ŠINDELÁŘ Ph.D.,73,starobní důchodce,Plzeň
+35,27,ROMAN ŠROMOTA,49,pokrývač,Ostrava
+35,28,MIROSLAV SCHÖTTA,66,starobní důchodce,Plzeň
+36,1,JOSEF VALIHRACH,30,"trojnásobný Vinař roku ČR, vítěz Farmy roku 2018",Krumvíř
+36,2,Ing. arch. LIANA JANÁČKOVÁ,65,"zastupitelka, senátorka 2004-2010",Ostrava
+36,3,Ing. ZDENĚK ŠŤÁSTKA,53,"ekonom, překladatel, správce vojenského skanzenu",Čestlice
+36,4,Bc. MARTIN BÍLEK,41,"živnostník, lektor AJ, před. Asociace lektorů AJ",Brníčko
+36,5,Mgr. MIROSLAV CHLUBNA,45,starosta města Orlová,Orlová
+36,6,PAVEL JANOŠ,60,"živnostník, cukrář, perníkář roku 1998",Němčice
+36,7,Mgr. Bc. MARTIN POLÁŠEK,47,starosta obce Těrlicko,Těrlicko
+36,8,Mgr. HANA MOUDRÁ,53,"vedoucí odboru, předs. strany v Královéhrad. kraji",Hradec Králové
+36,9,Ing. DAVID PLANDOR Ph.D.,38,"IT spec., zastup., star. města Štramberk 2014-18",Štramberk
+36,10,JIŘÍ ŠEBESTA,54,"podnikatel, místopř. Asoc. výr. zbraní a střeliva",Praha
+36,11,PhDr. IVO SYŘIŠTĚ Ph.D.,54,pedagog Univerzity Karlovy,Praha
+36,12,TAŤÁNA MÍČKOVÁ MUCHOVÁ,55,"živnostn., real. makléřka, čl. Žen živnostnic 2014",Valašské Meziříčí
+36,13,Bc. RENATA BAČÍKOVÁ,36,"OSVČ, poradenství, čl. Žen živnostnic 2014",Praha
+36,14,ZDENĚK RENC,72,"živnostník, oční optik a optometrista",Rakovník
+36,15,PETR BECHER,64,"majitel naklad. Librex Publishing, zastupitel",Ostrava
+36,16,ALEŠ VOLOVEC,46,"ředitel odboru Univerzity obrany, zastupitel",Brno
+36,17,RNDr. OTTO JAROLÍMEK CSc.,58,"fyzik, pedagog Technické univerzity v Liberci",Turnov
+36,18,Mgr. ROBERT KAŠE,51,"advokát, předseda strany v Plzni",Plzeň
+36,19,JIŘÍ CÍSAŘ,63,"živnostník, zasloužilý mistr sportu, mistr světa",Praha
+36,20,Ing. PETR MAXA,47,"řed. Dopravního podniku, zastupitel města Chlumec",Chlumec
+36,21,Mgr. PATRIK BRABLÍK,40,"OSVČ, lekt. činnost v oblasti výuky cizích jazyků",České Budějovice
+36,22,Mgr. VOJTĚCH MARVAN,31,"živnostník, marketingový specialista, radní města",Klášterec nad Ohří
+36,23,JAN TÓTH,46,"živnostník, učitel, člen zastupitelstva",Nejdek
+36,24,JANA KAGRAMANOVOVÁ,37,"jednatelka firmy, realitní makléřka",Rychvald
+36,25,ROMAN SLAVÍK,55,"živnostník, trafikant, trenér hokejové mládeže",Praha
+36,26,Mgr. LUBOMÍR DOLEŽEL,51,starosta města Fryšták,Fryšták
+36,27,Bc. JAROMÍR KUBA,37,"OSVČ, specialista na informační bezpečnost",Pardubice
+36,28,Ing. LADISLAV LINEK,60,"živnostník, 1. místopředseda strany, zastupitel",Praha
+37,1,JAROMÍR ŠTĚTINA,76,"europoslanec, spisovatel, novinář",Praha
+37,2,JAN POVÝŠIL,37,"paralympionik, fotograf",Praha
+37,3,Mgr. et Mgr. PETR FISCHER,49,"filosof, publicista",Praha
+37,4,Dipl. Päd. JANA SPEKHORSTOVÁ,46,"hudební pedagožka, viceprez. Evropské unie žen",Stařeč
+37,5,LEOŠ FUČÍK,65,"ředitel ústavu Opus Lacrimosa, z. ú.",Brno
+37,6,Mgr. JANA FAŠINOVÁ,44,finanční poradce v Evropském parlamentu,Pavlov
+37,7,ONDŘEJ ZEMAN,23,"student, živnostník",Ivančice
+37,8,JAN CHYTIL,33,"asistent europoslance, ekonom",Praha
+37,9,MUDr. VIERA KŘÍŽOVÁ,65,primářka Gastroenterologického centra,Roztoky
+37,10,Mgr. VLADIMÍR SKALLA,45,jednatel sítě soukr. středních a základních škol,Praha
+37,11,Mgr. TEREZA BÁRTOVÁ,27,právnička,Výprachtice
+37,12,Mgr. MICHAELA ŠÉDOVÁ,46,středoškolská učitelka,Praha
+37,13,MATYÁŠ HÁJEK,23,"fotograf, student Technické fakulty Liberec",Praha
+37,14,JANA DVOŘÁKOVÁ,23,"specialistka PR a marketingu, studentka",Třebíč
+37,15,MUDr. PETRA ANTONOVÁ MBA,49,vedoucí lékařka neinvazivní kardiologie FN Motol,Praha
+37,16,Mgr. ALEŠ JALUŠKA,71,duchovní Církve československé husitské,Lomnice nad Popelkou
+37,17,Bc. MICHAL BULANT,23,student ekonomie,Třebíč
+37,18,Mgr. STANISLAVA ŠIMKOVÁ,53,speciální pedagog,Praha
+37,19,Mgr. et Mgr. PAVLINA HÁJKOVÁ MPA,57,vedoucí kanceláře europoslance,Praha
+37,20,JAKUB DOSTÁL,28,"PR Jeden svět na školách, Člověk v tísni",Praha
+37,21,TEREZA BOČANOVÁ,31,středoškolská učitelka na Gymnáziu Thomase Manna,Praha
+37,22,MARTIN RÝZNAR,21,student VŠE v Praze,Praha
+37,23,JIŘÍ KUČERA,49,ředitel Consulting Services,Mnichovice
+37,24,IVANA MÁDROVÁ,67,"manažer, ekonom",Praha
+37,25,MILAN PISKÁČEK,35,"truhlářství podlahářství, OSVČ",Ústí nad Labem
+37,26,RADEK NOVOTNÝ,48,"výtvarník, marketingový specialista",Brno
+38,1,Ing. PAVEL POLÁČEK CSc.,80,jednatel společnosti,Praha
+38,2,Mgr. Bc. FRANTIŠEK NĚMEC,42,"jednatel spol., předs. KONZERVATIVNÍ ALTERNATIVY",Praha
+38,3,JIŘÍ DANĚK,49,"ekonom, člen Italsko-české obch. a průmysl. komory",Praha
+38,4,Ing. ZDENĚK DÝČKA,57,ekonom,Klášterec nad Ohří
+38,5,Ing. ANTONÍN ŠMÍDEK,35,vedoucí projektu,Praha
+38,6,LADISLAV BÉŇA,55,zaměstnanec České pošty,Praha
+38,7,MICHAL ČMEJREK,39,podnikatel,Praha
+38,8,LUDĚK HOLEČEK,60,člen zemědělského družstva,Čtveřín
+39,1,"Doc. JUDr. PAVEL SVOBODA Ph.D., D.E.A.",57,poslanec Evropského parlamentu,Praha
+39,2,Mgr. TOMÁŠ ZDECHOVSKÝ,39,poslanec Evropského parlamentu,Hradec Králové
+39,3,Ing. MICHAELA ŠOJDROVÁ,55,poslankyně Evropského parlamentu,Kroměříž
+39,4,Mgr. JAROSLAV SUCHÝ,48,"učitel angličtiny, člen Rady města Brna",Brno
+39,5,Mgr. ONDŘEJ BENEŠÍK,42,"poslanec PS PČR, předs. výboru pro evrop. záležit.",Strání
+39,6,Bc. FRANTIŠEK TALÍŘ,25,historik a moderátor,Zubčice
+39,7,Mgr. LUKÁŠ CURYLO,45,"1. náměstek hejtmana MSK, ředitel Charity",Ostrava
+39,8,Mgr. NINA NOVÁKOVÁ,65,"SŠ pedagožka, předsedkyně Středoevropské inspirace",Brandýs nad Labem-Stará Boleslav
+39,9,Mgr. EDUARD HULICIUS M.A.,38,člen kabinetu evropské komisařky,Praha
+39,10,Mgr. HAYATO OKAMURA,52,tlumočník a průvodce,Praha
+39,11,Bc. LUKÁŠ PACHTA M.A.,37,politolog a poradce europoslankyně,Praha
+39,12,MUDr. PAVEL KOPEČEK,53,ortoped,Ratíškovice
+39,13,Ing. EVA ŠILLEROVÁ,36,ekonomická ředitelka,Havířov
+39,14,Mgr. Ing. PETR VYSLOUŽIL,49,agronom,Bedihošť
+39,15,Mgr. JOSEF ULRICH MBA,43,finanční manažer,Praha
+39,16,Prof. RNDr. JIŘÍ WITZANY Ph.D.,53,vysokoškolský učitel,Praha
+39,17,Mgr. et Mgr. JAN MÁLEK,33,"politolog, analytik Evropské akad. pro demokracii",Přibyslav
+39,18,JUDr. PETR KRÁTKÝ,44,"právník, manažer, místopředseda Koruny České",Praha
+39,19,MARKÉTA FILIPOVÁ M.A.,27,"manažerka zahranič. vztahů KDU-ČSL, překladatelka",Boršov nad Vltavou
+39,20,ZDEŇKA RYBOVÁ,40,místopředsedkyně Hnutí Pro život ČR,Praha
+39,21,Prof. MUDr. MILOŠ PEŠEK CSc.,68,"přednosta kliniky, vědec, pedagog",Plzeň
+39,22,Mgr. RUDOLF HAVELKA Ph.D.,37,ředitel městského muzea,Hradec Králové
+39,23,Mgr. LUKÁŠ VERMACH Ph.D.,33,"matematik, konzultant v oblasti IT a teorie rizika",Praha
+39,24,Mgr. DAVID SURÝ,35,uvolněný člen Rady města,Uherský Brod
+39,25,Mgr. HANA BELLOVÁ B.A.,44,podnikatelka a překladatelka,Dolní Bečva
+39,26,Mgr. VOJTĚCH MAREK,27,IT specialista a demograf,Heřmanův Městec
+39,27,Ing. JAN BORGUĽA,44,ředitel rodinné stavební firmy,Ondřejov
+39,28,Mgr. DANIEL HERMAN,56,lektor a politik,Praha
+40,1,JUDr. KLÁRA ALŽBĚTA SAMKOVÁ,56,advokátka,Praha
+40,2,Ing. Mgr. LUDĚK NEZMAR MBA,47,"podnikatel, IT specialista",Psáry
+40,3,Ing. IVAN HRBEK pplk. v.v.,66,"zemědělský poradce a farmář, pedagog",Hvozd
+40,4,Ing. MILAN VODIČKA CSc.,69,"ekonom, manažer a soudní znalec",Říčany
+40,5,JUDr. RICHARD NOVÁK,57,advokát,Velké Němčice
+40,6,Mgr. LUBOMÍR VOLNÝ,45,"poslanec PS PČR, učitel",Ostrava
+40,7,Mgr. MIROSLAV ČERVENKA,63,podnikatel,Děčín
+40,8,doc. Ing. VOJTĚCH MERUNKA Ph.D.,52,"VŠ učitel, IT specialista na umělou inteligenci",Praha
+40,9,ZDENĚK PERNICA,32,"trenér bojových sportů, boxer",Brno
+40,10,LENKA KLÍMKOVÁ,36,personalistka v IT,Sokolov
+40,11,HYNEK CHAROUS,48,pilot závodních vozů,Brno
+40,12,MARIAN BOJKO,56,"poslanec PS PČR, báňský záchranář",Karviná
+40,13,Ing. MARIE ČAPKOVÁ,58,referent firemní péče v telekomunikačních službách,Jeníkovice
+40,14,PaedDr. TOMÁŠ HOUŠKA,55,"pedagog, režisér, scénárista",Praha
+40,15,PhDr. JIŘÍ BRANČÍK pplk. v.v.,70,primář psycholog. odd. Voj. nemocnice v Brně,Brno
+40,16,Ing. IRENA STEINHAUSEROVÁ,58,"koordinátorka domác. vzdělávání, psych. v hospici",Strmilov
+40,17,DAVID NEPIMACH,45,"majitel autoservisu, podnikatel",Zlín
+40,18,PAVEL HAVLÍČEK,56,"řezník, předseda Asociace živnostníků ČR",Klatovy
+40,19,Ing. JITKA TATÍČKOVÁ,49,finanční manažerka,Voděrádky
+40,20,ZUZANA MOUČKOVÁ,34,farmářka,Drysice
+40,21,Ing. FRANTIŠEK PETRÍK,58,obchodní manažer,Liberec
+40,22,Mgr. LUDVÍK KUMMER,58,advokát,Brno
