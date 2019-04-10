@@ -1,40 +1,44 @@
-title: "Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze"
-perex: "Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat."
+title: "Interaktivní kandidátky: proklikejte si, kdo kandiduje, kdo obhajuje a kdo přestoupil"
+perex: "K obecním volbám 5. a 6. října jsme připravili praktickou aplikaci. Během pár kliků vám prozradí informace, které na papíře nenajdete."
 published: "21. dubna 2018"
-coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
-coverimg_note: "Foto <a href='#'>ČTK</a>"
-styles: []
-libraries: [] #jquery, d3, d3v5, d3csv, highcharts, datatables
-options: [noheader, nopic] #wide, noheader (, nopic)
+coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/komunalni-volby_1802_180823-084533_jab.png?itok=6XCgU6KR
+coverimg_note: ""
+styles: ["//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"]
+libraries: [jquery, "https://d3js.org/d3.v3.min.js", datatables, "https://code.jquery.com/ui/1.12.1/jquery-ui.js", "https://cdn.datatables.net/plug-ins/1.10.19/sorting/diacritics-sort.js"]
+options: [noheader, nopic]
 ---
+_U obhajoby mandátu nebo kandidatury za jinou stranu než minule jsme nejprve museli určit, zda jde na minulých a letošních kandidátkách o stejnou osobu. Kandidáty jsme spojovali podle shodného jména, příjmení, o čtyři roky vyššího věku a kandidatury do stejného zastupitelstva. Pokud se tedy například kandidátka vdala a změnila si jméno nebo jen kandiduje do jiného zastupitelstva než minule, nespojíme si ji._
+
+_Sloupec_ minulá kandidatura _znamená, že kandidát nastupuje za hnutí s jiným názvem než v minulých volbách. Neznamená tedy automaticky přestup do jiné strany._
+
+_U Prahy 9 a obce Lišov, které mají volební obvody, je pořadí kandidáta ve formátu {obvod}/{pořadí na kandidátce}._
+
+<wide>
+<div id="container">
+	<div id="strany">
+		<table id="tabulkaStran" class="display" style="width:100%"></table></div>
+	<div id="kandidati"><table id="tabulkaKandidatu" class="display" style="width:100%"></table></div>
+</div>
+</wide>
+
+_Zdroj dat: [volby.cz](https://volby.cz/pls/kv2018/kv?xjazyk=CZ&xid=1)_
+
+V podzimních komunálních volbách kandiduje 216 520 kandidátů ze 403 stran, hnutí a koalic. Je to nejméně od roku 2006, téměř o desetinu méně než před čtyřmi lety.
+
+Víc než polovina z nich – 111 tisíc – kandiduje za lokální strany a hnutí. Mezi celostátními politickými stranami postaví nejvíc kandidátů KDU-ČSL (15,9 tisíce), KSČM (15,3 tisíce) a ČSSD (13,5 tisíce). Je to poprvé v rámci samostatné České republiky, kdy komunisté nebudou nejpočetnější.
+
 <left>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
+<h3>Čtěte také</h3>
+<ul>
+	<li><a href="https://www.irozhlas.cz/volby/komunalni-volby-2018" target="_blank">Speciál ke komunálním volbám</a></li>
+	<li><a href="https://www.irozhlas.cz/volby/senatni-volby-2018" target="_blank">Speciál k senátním volbám</a></li>
+</ul>
 </left>
 
-Během dne se lidé v Praze soustřeďují v okolí administrativních center a obchodů, po poledni se tak nejvíc zahustí okolí Andělu, centrum Prahy (Vodičkova ulice a Petrské náměstí) a Brumlovka nedaleko Budějovické. Na poslední jmenované adrese sídlí řada velkých korporací, mezi nimi i Microsoft nebo ČEZ. Pro srovnání, na zmíněných místech je ve „špičce“ okolo šesti stovek osob na jeden hektar, průměr Prahy je 25 obyvatel na [hektar](https://cs.wikipedia.org/wiki/Hektar) (Václavské náměstí má rozlohu asi 4 hektary).
+Všem třem zmíněným stranám nicméně proti minulým volbám kandidátů podstatně ubylo: křesťanští demokraté přišli o 11 procent, komunisté o 20 procent a sociální demokraté o 27 procent kandidátů. Ještě hůř je na tom TOP 09, která nasadí o 54 procent lidí méně než minule – a to včetně koalic.
 
-Naopak v noci se nejvíc lidí se „namačká“ ve Vršovicích, jde o 430 osob na hektar.
+Naopak polepšili si Starostové a nezávislí, ti vyrostli o 21 procent, a také Piráti, kterých bude letos oproti minulým volbám trojnásobně. Nicméně největším skokanem je hnutí SPD Tomia Okamury, které před čtyřmi lety nekandidovalo a letos postaví 4,5 tisíce lidí.
 
-Detaily si můžete prohlédnout v následující mapě, kterou z dat mobilních operátorů zpracoval pražský [Institut plánování a rozvoje](http://www.iprpraha.cz/).
+Průměrný věk všech kandidátů je 47 let. Ve všech dosavadních komunálních volbách byl průměrný kandidát o rok až dva mladší. Naznačuje to, že zájem o lokální politiku v posledním období poklesl.
 
-<wide>_Pokud vás zajímá, kolik lidí bývá ve dne a v noci ve vaší čtvrti, najděte si ji na mapě, přepněte se na časové řezy, vyberte přepínač hustota osob a potom pohybujte posuvníkem nahoře._</wide>
-
-
-## Data na prodej
-<right>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
-</right>
-
-I pokud netelefonujeme nebo neposíláme SMS, telefon pravidelně komunikuje s vysílači v síti mobilního operátora. Z dat o síle signálu a použité anténě je možné odvodit, kde se přibližně telefon nachází a jak dlouhou dobu na místě strávil.
-
-Mobilní operátor má [zákonnou povinnost](https://www.zakonyprolidi.cz/cs/2005-127/zneni-20160919#p97-3) takové informace uchovávat, a to půl roku do minulosti, přistupovat k nim ale mohou jen bezpečnostní složky, typicky policie nebo rozvědka.
-
-Operátoři ale obdobné informace mohou anonymizovat (tedy zbavit identifikace konkrétního uživatele) a agregovat, tedy spojit informace o jednotlivcích do jakýchsi skupin. Výsledná obecná čísla pak přeprodávají dál, například marketingovým firmám či dopravním analytikům. Zpětně z nich nejde dovodit, kde se pohybuje každý jednotlivec, dávají ale určitý přehled o obecném chování obyvatel nějakého místa.
+Necelá třetina kandidátů jsou ženy. Podíl žen v konkrétní straně, stejně jako věkový průměr, prozradí interaktivní kandidátky.
