@@ -1,4 +1,4 @@
-d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/strany.csv", function(data) {
+d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/app/strany.csv", function(data) {
 
 	var strany = data;
   var idStran = strany.map(function(d) {
@@ -37,7 +37,7 @@ d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/strany.csv", function(d
 function ukazKandidaty(idStrany, nazevStrany) {
   document.getElementById("kandidati").innerHTML = 'Načítám data...'
 
-  d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/kandidati.csv", function(data){
+  d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/app/kandidati.csv", function(data){
   var kandidati = data;
 
   var kandidatiBezId = kandidati.map(function(d) {

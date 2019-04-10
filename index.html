@@ -270,11 +270,11 @@ Interaktivní kandidátky: proklikejte si, kdo kandiduje, kdo obhajuje a kdo př
 </div>
 </div>
 </div><script>
-d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/strany.csv",function(data){var strany=data;var idStran=strany.map(function(d){return d['StranaNr'];});var stranyBezId=strany.map(function(d){delete(d['StranaNr'])
+d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/app/strany.csv",function(data){var strany=data;var idStran=strany.map(function(d){return d['StranaNr'];});var stranyBezId=strany.map(function(d){delete(d['StranaNr'])
 return(d);});var html='<h3>Kandidující strany</h3>'
 html+='<table id="tabulkaStran" class="display" style="width:100%"></table>'
 document.getElementById("strany").innerHTML=html;poskladejTabulkuStran(stranyBezId,idStran);$(function(){$('#tabulkaStran').DataTable({columnDefs:[{targets:0,type:'diacritics-neutralise'}],"order":[[0,"asc"]],"responsive":true,"ordering":true,"paging":false,"bInfo":false,"language":{"url":"https://interaktivni.rozhlas.cz/tools/datatables/Czech.json"}});});});function ukazKandidaty(idStrany,nazevStrany){document.getElementById("kandidati").innerHTML='Načítám data...'
-d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/kandidati.csv",function(data){var kandidati=data;var kandidatiBezId=kandidati.map(function(d){if(d['StranaNr']==idStrany){delete(d['StranaNr'])
+d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/app/kandidati.csv",function(data){var kandidati=data;var kandidatiBezId=kandidati.map(function(d){if(d['StranaNr']==idStrany){delete(d['StranaNr'])
 return(d);};});kandidatiBezId=kandidatiBezId.filter(function(d){return d!=undefined;});var html='<h3>Kandidáti</h3>'
 html+='<h3 style = "font-weight: normal">'+nazevStrany+'</h3>'
 html+='<table id="tabulkaKandidatu" class="display" style="width:100%"></table>'
