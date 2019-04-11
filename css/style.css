@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 input {
   border: 1px solid transparent;
   background-color: #deebf7;
@@ -28,7 +32,6 @@ input[type=submit] {
   cursor: pointer;
   color: #08519c;
   font: 12px "Noticia Text",serif;
-  float: right;
   margin-bottom: 0;
 }
 
