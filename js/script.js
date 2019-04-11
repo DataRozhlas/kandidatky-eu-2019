@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import Papa from "papaparse";
 
 // prodluzovaci bazmek
@@ -23,6 +24,13 @@ function drawTables(stranyData, kandData) {
         ? radek.append($("<td>").html(`${column} <div class="stranaKlik" data-strana=${strana[0]}><u>kandidáti</u></div>`))
         : radek.append($("<td>").html(column));
     });
+
+    // skryty sloupecek se jmeny kandidatu kvuli searchi
+    const kandidati = kandData
+      .filter(kand => kand[0] === parseInt(strana[0], 10).toString())
+      .map(kand => kand[2]);
+    radek.append($("<td>").html(kandidati.join(" ")));
+
     $(telo).append(radek);
   });
   $("#tabulkaStran").append(telo);
@@ -37,8 +45,9 @@ function drawTables(stranyData, kandData) {
       url: "https://interaktivni.rozhlas.cz/tools/datatables/Czech.json",
     },
     columnDefs: [
-      { targets: 7, visible: false, searchable: false },
       { targets: 1, type: "diacritics-neutralise" },
+      { targets: 7, visible: false, searchable: false },
+      { targets: 8, visible: false },
     ],
   });
 
