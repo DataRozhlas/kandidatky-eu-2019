@@ -17,7 +17,7 @@ options: [noheader, nopic]
 
 _Zdroj dat: [volby.cz](https://volby.cz/pls/kv2018/kv?xjazyk=CZ&xid=1), [Wikipedia.cz](https://cs.wikipedia.org/wiki/Volby_do_Evropsk%C3%A9ho_parlamentu_v_%C4%8Cesku_2019)_
 
-Ve volbách do evropského parlamentu letos kandiduje 844 kandidátů v 39 stranách a koalicích. Češi volí 21 europoslanců z celkových 705, kteří v parlamentu zasednou. Z voleb předčasně vypadla _[Moravská a Slezská pirátská strana](https://www.irozhlas.cz/zpravy-domov/eurovolby-2019-piratska-strana-evropsky-parlament_1904051930_nkr)_.
+Ve volbách do evropského parlamentu letos kandiduje 844 kandidátů v 39 stranách a koalicích. Češi volí 21 europoslanců z celkových 705 (a nebo 751, pokud se voleb [zúčastní Spojené království](https://www.irozhlas.cz/zpravy-svet/konecne-datum-brexitu-theresa-mayova-brexit-summit-eu_1904110048_per)), kteří v parlamentu zasednou. Z voleb předčasně vypadla _[Moravská a Slezská pirátská strana](https://www.irozhlas.cz/zpravy-domov/eurovolby-2019-piratska-strana-evropsky-parlament_1904051930_nkr)_.
 
 Ve volbách kandiduje šest koalic:
 
