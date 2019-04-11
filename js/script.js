@@ -1,166 +1,120 @@
-d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/app/strany.csv", function(data) {
+/* eslint-disable no-undef */
+import Papa from "papaparse";
 
-	var strany = data;
-  var idStran = strany.map(function(d) {
-    return d['StranaNr'];
+const partaj = "Volte Pravý Blok - stranu za snadnou a rychlou ODVOLATELNOST politiků a státních úředníků PŘÍMO OBČANY, za NÍZKÉ daně, VYROVNANÝ rozpočet, MINIMALIZACI byrokracie, SPRAVEDLIVOU a NEZKORUMPOVANOU policii a justici, REFERENDA a PŘÍMOU demokracii WWW.CIBULKA.NET, kandidující s nejlepším protikriminálním programem PŘÍMÉ demokracie a hlubokého národního, duchovního a mravního obrození VY NEVĚŘÍTE POLITIKŮM A JEJICH NOVINÁŘŮM? NO KONEČNĚ! VĚŘME SAMI SOBĚ!!! - ale i s mnoha dalšími DŮVODY, proč bychom měli jít tentokrát VŠICHNI K VOLBÁM, ale - pokud nechceme být ZNOVU obelháni, podvedeni a okradeni - NEVOLIT ŽÁDNOU PARLAMENTNÍ TUNEL - STRANU vládnoucí (post) komunistické RUSKO - ČESKÉ totalitní FÍZLOKRACIE a jejich likvidační protinárodní politiku ČÍM HŮŘE, TÍM LÉPE!!! - jenž žádá o volební podporu VŠECHNY ČESKÉ OBČANY a daňové poplatníky, kteří chtějí změnit dnešní kriminální poměry, jejichž jsme všichni obětí, v jejich pravý opak! V BOJI MEZI DOBREM A ZLEM, PRAVDOU A LŽÍ, NELZE BÝT NEUTRÁLNÍ A PŘESTO ZŮSTAT SLUŠNÝ!!! Proto děkujeme za Vaši podporu!!! Nevěříte-li na pokoru u popravčí káry, zdá-li se vám naše kandidátka málo dokonalá nebo postrádáte-li na ní zástupce své obce nebo města a přitom MÁTE ODVAHU v této válce Lidí Dobra s vládnoucími Lidmi Zla povstat z jimi naordinovaného občanského bezvědomí, kterým nás ničí a dnešní DEMOKRATURU, SKRYTOU TOTALITU a OTROKÁŘSTVÍ VYŠŠÍHO ŘÁDU zásadním způsobem změnit, KANDIDUJTE ZA NÁS!!! Kontakt: Volte Pravý Blok www.cibulka.net, PO BOX 229, 11121 Praha";
+
+document
+  .getElementById("longer")
+  .addEventListener("click", () => {
+    document.getElementById("cibulkator").innerHTML = `<i>${partaj}</i>`;
   });
 
-  var stranyBezId = strany.map(function(d) {
-    delete(d['StranaNr'])
-    return (d);
-  });
+// tabulka stran
+Papa.parse("https://data.irozhlas.cz/kandidatky-eu-2019/data/app/strany.csv", {
+  download: true,
+  skipEmptyLines: true,
+  complete(results) {
+    const strany = results.data;
 
-	var html = '<div id = "kandStrany"><h3>Kandidující strany</h3></div>'
-	html += '<table id="tabulkaStran" class="display" style="width:100%"></table>'
+    // hlavicka
+    const hlavicka = $("<thead>");
+    const hlavickaTr = $("<tr>");
+    strany[0].map(column => hlavickaTr.append($("<th>").html(column)));
+    $(hlavicka).append(hlavickaTr);
+    $("#tabulkaStran").append(hlavicka);
 
-	document.getElementById("strany").innerHTML = html;
-
-	poskladejTabulkuStran(stranyBezId, idStran);
-
-  $(function() {
-    $('#tabulkaStran').DataTable({
-        columnDefs: [
-          { targets: 0, type: 'diacritics-neutralise' }
-        ],
-        "order": [[ 0, "asc" ]],
-        "responsive": true,
-        "ordering": true,
-        "paging": false,
-        "bInfo": false,
-        "language": {
-            "url": "https://interaktivni.rozhlas.cz/tools/datatables/Czech.json"
-        }
+    // telo
+    const telo = $("<tbody>");
+    strany.slice(1).forEach((strana) => {
+      const radek = $("<tr>");
+      strana.forEach((column, index) => {
+        index === 0
+          ? radek.append($("<td>").html(`${column} <p class="stranaKlik" data-strana=${column}><u>kandidáti</u></p>`))
+          : radek.append($("<td>").html(column));
+      });
+      $(telo).append(radek);
     });
-  });
-});
+    $("#tabulkaStran").append(telo);
 
-function ukazKandidaty(idStrany, nazevStrany) {
-  document.getElementById("kandidati").innerHTML = 'Načítám data...'
-
-  d3.csv("https://data.irozhlas.cz/kandidatky-eu-2019/data/app/kandidati.csv", function(data){
-  var kandidati = data;
-
-  var kandidatiBezId = kandidati.map(function(d) {
-    if (d['StranaNr'] == idStrany) {
-      delete(d['StranaNr'])
-      return (d);
-    };
-  });
-
-  kandidatiBezId = kandidatiBezId.filter(function(d) {
-    return d != undefined;
-  });
-
-  var html = '<div id = "zpetStrany"><button type = "button" onclick = "zpetStrany()">Zpět na výběr strany</button></div>'
-  html += '<h3>Kandidáti</h3>'
-  html += '<h3 style = "font-weight: normal">' + nazevStrany + '</h3>'
-  html += '<table id="tabulkaKandidatu" class="display" style="width:100%"></table>'
-
-  document.getElementById("kandidati").innerHTML = html;
-
-  poskladejTabulkuKandidatu(kandidatiBezId, nazevStrany);
-
-  $(function() {
-    $('#tabulkaKandidatu').DataTable({
-        columnDefs: [
-          { targets: 1, type: 'diacritics-neutralise' }
-        ],
-        "order": [[ 0, "asc" ]],
-        "responsive": true,
-        "ordering": true,
-        "paging": false,
-        "bInfo": false,
-        "language": {
-          "url": "https://interaktivni.rozhlas.cz/tools/datatables/Czech.json"
+    $("#tabulkaStran").DataTable({
+      order: [[0, "asc"]],
+      responsive: true,
+      ordering: true,
+      paging: false,
+      language: {
+        url: "https://interaktivni.rozhlas.cz/tools/datatables/Czech.json",
+      },
+      columnDefs: [
+        {
+          targets: 7,
+          visible: false,
+          searchable: false,
         },
+      ],
     });
-  });
 
-  document.getElementById("zpetStrany").scrollIntoView();
-  window.scrollBy(0, -50);
+    $(".stranaKlik").click((e) => {
+      const strana = e.currentTarget.getAttribute("data-strana");
+      const nazevStrany = strany.filter(str => str[0] === strana)[0][1];
 
-  })
-};
+      document.getElementById("kandidati").innerHTML = "Načítám data...";
 
-function zpetStrany() {
-  document.getElementById("kandStrany").scrollIntoView();
-  window.scrollBy(0, -50);
-}
+      Papa.parse("https://data.irozhlas.cz/kandidatky-eu-2019/data/app/kandidati.csv", {
+        download: true,
+        skipEmptyLines: true,
+        complete(kandResults) {
+          const kandidati = kandResults.data
+            .filter(kand => kand[0] === parseInt(strana, 10).toString());
 
-function poskladejTabulkuStran(seznamStran, idStran, idObce) {
-  var columns = poskladejHlavickuStran(seznamStran);
+          document
+            .getElementById("kandidati")
+            .innerHTML = `<button id="zpetStrany" type="button">Zpět na výběr strany</button>
+              <h3>Kandidáti</h3>
+              <h3 style="font-weight: normal">${nazevStrany}</h3>
+              <table id="tabulkaKandidatu" class="display" style="width:100%"></table>`;
 
-  $('#tabulkaStran').append('<tbody>');
-  for (var i = 0; i < seznamStran.length; i++) {
-    var row$ = $('<tr/>');
-    for (var colIndex = 0; colIndex < columns.length; colIndex++) {
-      var cellValue = seznamStran[i][columns[colIndex]];
-      var nazevStrany = '\'' + seznamStran[i]['Strana'] + '\'';
-      if (colIndex == 0) cellValue = cellValue + '<p class="stranaKlik" onclick="ukazKandidaty(' + idStran[i] + ', ' + nazevStrany + ')"><u>kandidáti</u></p>';
-      if (cellValue == null) cellValue = "";
-      row$.append($('<td/>').html(cellValue));
-    }
-    $('#tabulkaStran').append(row$);
-  }
-};
+          // hlavicka
+          const kandHlavicka = $("<thead>");
+          const kandHlavickaTr = $("<tr>");
+          kandResults.data[0].map(column => kandHlavickaTr.append($("<th>").html(column)));
+          $(kandHlavicka).append(kandHlavickaTr);
+          $("#tabulkaKandidatu").append(kandHlavicka);
 
-function poskladejHlavickuStran(seznamStran) {
-  var columnSet = [];
+          // telo
+          const kandTelo = $("<tbody>");
+          kandidati.forEach((kandidat) => {
+            const radek = $("<tr>");
+            kandidat.forEach((column) => {
+              radek.append($("<td>").html(column));
+            });
+            $(kandTelo).append(radek);
+          });
+          $("#tabulkaKandidatu").append(kandTelo);
 
-  $('#tabulkaStran').append('<thead id="seznamStranHlavicka">');
-  var headerTr$ = $('<tr>');
+          $("#tabulkaKandidatu").DataTable({
+            columnDefs: [
+              { targets: 1, type: "diacritics-neutralise" },
+              { targets: 0, visible: false },
+            ],
+            order: [[0, "asc"]],
+            responsive: true,
+            ordering: true,
+            paging: false,
+            language: {
+              url: "https://interaktivni.rozhlas.cz/tools/datatables/Czech.json",
+            },
+          });
 
-  for (var i = 0; i < seznamStran.length; i++) {
-    var rowHash = seznamStran[i];
-    for (var key in rowHash) {
-      if ($.inArray(key, columnSet) == -1) {
-        columnSet.push(key);
-        headerTr$.append($('<th/>').html(key));
-      }
-    }
-  }
 
-  $('#seznamStranHlavicka').append(headerTr$);
+          document.getElementById("zpetStrany").scrollIntoView();
+          window.scrollBy(0, -50);
 
-  return columnSet;
-}
-
-function poskladejTabulkuKandidatu(seznamKandidatu, nazevStrany) {
-  var columns = poskladejHlavickuKandidatu(seznamKandidatu);
-
-  $('#tabulkaKandidatu').append('<tbody>');
-  for (var i = 0; i < seznamKandidatu.length; i++) {
-    if ((seznamKandidatu[i]['Minulá kandidatura'] != nazevStrany) && (seznamKandidatu[i]['Minulá kandidatura'] != '')) {
-      var row$ = $('<tr id = "prebehlik">');
-    } else {
-      var row$ = $('<tr>');
-    }
-    for (var colIndex = 0; colIndex < columns.length; colIndex++) {
-      var cellValue = seznamKandidatu[i][columns[colIndex]];
-      if (cellValue == null) cellValue = "";
-      row$.append($('<td>').html(cellValue));
-    }
-    $('#tabulkaKandidatu').append(row$);
-  }
-}
-
-function poskladejHlavickuKandidatu(seznamKandidatu) {
-  var columnSet = [];
-
-  $('#tabulkaKandidatu').append('<thead id="seznamKandidatuHlavicka">');
-  var headerTr$ = $('<tr>');
-
-  for (var i = 0; i < seznamKandidatu.length; i++) {
-    var rowHash = seznamKandidatu[i];
-    for (var key in rowHash) {
-      if ($.inArray(key, columnSet) == -1) {
-        columnSet.push(key);
-        headerTr$.append($('<th/>').html(key));
-      }
-    }
-  }
-
-  $('#seznamKandidatuHlavicka').append(headerTr$);
-  return columnSet;
-}
-
+          $("#zpetStrany").click(() => {
+            document.getElementById("kandStrany").scrollIntoView();
+            window.scrollBy(0, -50);
+          });
+        },
+      });
+    });
+  },
+});

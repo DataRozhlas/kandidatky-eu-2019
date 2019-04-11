@@ -1,59 +1,4 @@
-<div class="b-data__content" id="content">
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
-<script src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
-<script src="https://cdn.datatables.net/plug-ins/1.10.19/sorting/diacritics-sort.js"></script>
-
-<script type="text/javascript">document.getElementsByTagName('article')[0].classList.add('b-data--no-img');</script>
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.dataTables.min.css">
-<style>li{background:0 0!important;margin:0!important;padding:0!important}ol,ul{list-style:initial!important;font-size:medium!important;line-height:1.5!important}hr{max-width:none!important}input{border:1px solid transparent;background-color:#deebf7;padding:10px;font-size:16px;border-radius:5px}input[type=text]{background-color:#2171b5;border-radius:5px;color:#fff;width:90%}input[type=submit]{background-color:#2171b5;border-radius:5px;color:#fff;color:#fff}#kandidati,#obec,#strany{padding-bottom:10px}.stranaKlik{cursor:pointer;color:#08519c;font:12px "Noticia Text",serif;float:right;margin-bottom:0}#longer{text-decoration:underline;cursor:pointer}button{background-color:#2171b5;border:none;color:#fff;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font:16px "Noticia Text",serif;border-radius:5px}::-webkit-input-placeholder{color:#fff}::-moz-placeholder{color:#fff}:-ms-input-placeholder{color:#fff}:-moz-placeholder{color:#fff}</style>
-<div class="row-main row-main--article">
-<h1 class="b-data__title b-data__title--sm">
-Interaktivní kandidátky k eurovolbám: proklikejte si, koho volit
-</h1>
-</div>
-<div class="row-main row-main--narrow">
-<p class="text-bold text-lg">Pro volby do Evropského parlamentu v pátek a sobotu 24. a 25. května jsme připravili přehlednou aplikaci, kde si můžete strany i samotné kandidáty seřadit podle toho, co je pro vás důležité: osoby lídra, věku, množství vysokoškolských titulů nebo podílu žen.</p>
-</div>
-
-<!--[[ZPRAVY_SNOWFALL_METADATA:]]-->
-<div class="row-main row-main--narrow">
-
-
-</div><div class="row-main row-main--article">
-<div id="kandStrany">
-<h3>Kandidující strany</h3>
-</div>
-<table id="tabulkaStran" class="display" style="width:100%"></table>
-<div id="kandidati"></div>
-</div><div class="row-main row-main--narrow">
-
-<p><i>Zdroj dat: <a href="https://volby.cz/pls/kv2018/kv?xjazyk=CZ&amp;xid=1">volby.cz</a>, <a href="https://cs.wikipedia.org/wiki/Volby_do_Evropsk%C3%A9ho_parlamentu_v_%C4%8Cesku_2019">Wikipedia.cz</a></i></p>
-<p>Ve volbách do evropského parlamentu letos kandiduje 844 kandidátů v 39 stranách a koalicích. Češi volí 21 europoslanců z celkových 705 (a nebo 751, pokud se voleb <a href="https://www.irozhlas.cz/zpravy-svet/konecne-datum-brexitu-theresa-mayova-brexit-summit-eu_1904110048_per">zúčastní Spojené království</a>), kteří v parlamentu zasednou. Z voleb předčasně vypadla <em><a href="https://www.irozhlas.cz/zpravy-domov/eurovolby-2019-piratska-strana-evropsky-parlament_1904051930_nkr">Moravská a Slezská pirátská strana</a></em>.</p>
-<p>Ve volbách kandiduje šest koalic:</p>
-<ul>
-<li><em>Dělnická strana sociální spravedlnosti - za národní suverenitu! (Dělnická strana sociální spravedlnosti, Národní fronta)</em></li>
-<li><em>Rozumní a národní demokracie - stop migraci - nechceme euro (Národní demokracie, Rozumní)</em></li>
-<li><em>Patrioti pro neutralitu (Česká strana národně sociální, Patrioti ČR)</em></li>
-<li><em>Svobodní, Liberland a Radostné Česko - odejdeme bez placení (Svobodní, Radostné Česko)</em></li>
-<li><em>Starostové (STAN) s regionálními partnery a TOP 09 (Starostové a nezávislí, TOP 09)</em></li>
-<li><em>Strana soukromníků České republiky a Nezávislí s podporou Občanské demokratické aliance a profesních společenstev (Nezávislí, Soukromníci)</em></li>
-</ul>
-<p>Přes 60 procent kandidátů všech stran má vysokoškolský titul. Mezi nimi vyčnívají <em>Vědci pro Českou republiku</em>, kde se může titulem pochlubit všech dvacet kandidátů. S jedenácti profesory a čtyřmi docenty jde o spolehlivě nejvzdělanější stranu, která se objevila v některých porevolučních českých volbách.</p>
-<p>Pouze čtvrtina kandidátů jsou ženy. Volitelné pozice jsou ještě maskulinnější: na prvních třech místech všech kandidátek je 20 procent žen, lídryň je pouhých 13 procent. Mezi parlamentními stranami jsou to Dita Charanzová za <em>ANO</em> a Kateřina Konečná z <em>KSČM</em>.</p>
-<p>Průměrný věk kandidátů je 47,6 roku, o necelý rok víc než v minulých eurovolbách. K nejstarším patří například konstanta českých voleb, strana <span id="cibulkator"><em>Volte Pravý Blok</em> (<span id="longer">klikněte, pokud stojíte o celý název partaje</span>)</span> s 16 kandidáty a průměrným věkem 58,9 let.</p>
-<p>Mezi parlamentními stranami je nejstarší <em>SPD Tomia Okamury</em> s průměrem 53,2 roku. Tradičně mladí jsou <em>Piráti</em> s 34,9 roku, překvapivě mladá kandidátka <em>ČSSD</em> s 38,3 roku. K nejmladším patří také brněnský subjekt <em>Ano, vytrollíme europarlament</em> s průměrným věkem kandidátů 34,7 roku.</p>
-<p>Téměř čtvrtina kandidátů (v abs. počtu 194) je z Prahy, další v pořadí jsou Brno (71 kandidátů), s odstupem Plzeň (33 kandidátů) a Ostrava (23 kandidátů). Nejčastějším povoláním je podnikatel (25 kandidátů), právník, živnostník a ekonom (všechny 11 kandidátů). Osm kandidátů uvádí jako svoje povolání poslanec/poslankyně Evropského parlamentu.</p>
-
-
-<p class="meta meta--right meta--big">
-<!--[[ZPRAVY_SNOWFALL_AUTHORS:FOOTER]]-->
-</p>
-</div>
-<!--[[ZPRAVY_SNOWFALL_RELATED:ARTICLES]]-->
-</div>
-<script>/******/ (function(modules) { // webpackBootstrap
+/******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
 /******/
@@ -164,4 +109,4 @@ eval("var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPAC
 
 /***/ })
 
-/******/ });</script>
+/******/ });
