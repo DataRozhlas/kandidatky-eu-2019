@@ -84,7 +84,7 @@ input[type=submit] {
 }
 
 #obec, #strany, #kandidati {
-  padding-bottom: 30px;
+  padding-bottom: 10px;
 }
 
 .stranaKlik {

@@ -1,5 +1,5 @@
 title: "Interaktivní kandidátky k eurovolbám: proklikejte si, koho volit"
-perex: "K evropským volbám v pátek a sobotu 24. a 25. května XXX"
+perex: "Pro volby do Evropského parlamentu v pátek a sobotu 24. a 25. května jsme připravili přehlednou aplikaci, kde si můžete strany i samotné kandidáty seřadit podle toho, co je pro vás důležité: osoby lídra, věku, množství vysokoškolských titulů nebo podílu žen."
 published: "11. dubna 2019"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/komunalni-volby_1802_180823-084533_jab.png?itok=6XCgU6KR
 coverimg_note: ""
@@ -15,45 +15,25 @@ options: [noheader, nopic]
 </div>
 </wide>
 
-_Zdroj dat: [volby.cz](https://volby.cz/pls/kv2018/kv?xjazyk=CZ&xid=1)_
+_Zdroj dat: [volby.cz](https://volby.cz/pls/kv2018/kv?xjazyk=CZ&xid=1), [Wikipedia.cz](https://cs.wikipedia.org/wiki/Volby_do_Evropsk%C3%A9ho_parlamentu_v_%C4%8Cesku_2019)_
 
-V podzimních komunálních volbách kandiduje 216 520 kandidátů ze 403 stran, hnutí a koalic. Je to nejméně od roku 2006, téměř o desetinu méně než před čtyřmi lety.
+Ve volbách do evropského parlamentu letos kandiduje 844 kandidátů v 39 stranách a koalicích. Češi volí 21 europoslanců z celkových 705, kteří v parlamentu zasednou. Z voleb předčasně vypadla _[Moravská a Slezská pirátská strana](https://www.irozhlas.cz/zpravy-domov/eurovolby-2019-piratska-strana-evropsky-parlament_1904051930_nkr)_.
 
-Víc než polovina z nich – 111 tisíc – kandiduje za lokální strany a hnutí. Mezi celostátními politickými stranami postaví nejvíc kandidátů KDU-ČSL (15,9 tisíce), KSČM (15,3 tisíce) a ČSSD (13,5 tisíce). Je to poprvé v rámci samostatné České republiky, kdy komunisté nebudou nejpočetnější.
+Ve volbách kandiduje šest koalic:
 
-<left>
-<h3>Čtěte také</h3>
-<ul>
-	<li><a href="https://www.irozhlas.cz/volby/komunalni-volby-2018" target="_blank">Speciál ke komunálním volbám</a></li>
-	<li><a href="https://www.irozhlas.cz/volby/senatni-volby-2018" target="_blank">Speciál k senátním volbám</a></li>
-</ul>
-</left>
+- _Dělnická strana sociální spravedlnosti - za národní suverenitu! (Dělnická strana sociální spravedlnosti, Národní fronta)_
+- _Rozumní a národní demokracie - stop migraci - nechceme euro (Národní demokracie, Rozumní)_
+- _Patrioti pro neutralitu (Česká strana národně sociální, Patrioti ČR)_
+- _Svobodní, Liberland a Radostné Česko - odejdeme bez placení (Svobodní, Radostné Česko)_
+- _Starostové (STAN) s regionálními partnery a TOP 09 (Starostové a nezávislí, TOP 09)_
+- _Strana soukromníků České republiky a Nezávislí s podporou Občanské demokratické aliance a profesních společenstev (Nezávislí, Soukromníci)_
 
-Všem třem zmíněným stranám nicméně proti minulým volbám kandidátů podstatně ubylo: křesťanští demokraté přišli o 11 procent, komunisté o 20 procent a sociální demokraté o 27 procent kandidátů. Ještě hůř je na tom TOP 09, která nasadí o 54 procent lidí méně než minule – a to včetně koalic.
+Přes 60 procent kandidátů všech stran má vysokoškolský titul. Mezi nimi vyčnívají _Vědci pro Českou republiku_, kde se může titulem pochlubit všech dvacet kandidátů. S jedenácti profesory a čtyřmi docenty jde o spolehlivě nejvzdělanější stranu, která se objevila v některých porevolučních českých volbách.
 
-Naopak polepšili si Starostové a nezávislí, ti vyrostli o 21 procent, a také Piráti, kterých bude letos oproti minulým volbám trojnásobně. Nicméně největším skokanem je hnutí SPD Tomia Okamury, které před čtyřmi lety nekandidovalo a letos postaví 4,5 tisíce lidí.
+Pouze čtvrtina kandidátů jsou ženy. Volitelné pozice jsou ještě maskulinnější: na prvních třech místech všech kandidátek je 20 procent žen, lídryň je pouhých 13 procent. Mezi parlamentními stranami jsou to Dita Charanzová za _ANO_ a Kateřina Konečná z _KSČM_.
 
-Průměrný věk všech kandidátů je 47 let. Ve všech dosavadních komunálních volbách byl průměrný kandidát o rok až dva mladší. Naznačuje to, že zájem o lokální politiku v posledním období poklesl.
+Průměrný věk kandidátů je 47,6 roku, o necelý rok víc než v minulých eurovolbách. K nejstarším patří například konstanta českých voleb, strana _Volte Pravý Blok - stranu za snadnou a rychlou ODVOLATELNOST politiků a státních úředníků PŘÍMO OBČANY, za NÍZKÉ daně, VYROVNANÝ rozpočet, MINIMALIZACI byrokracie, SPRAVEDLIVOU a NEZKORUMPOVANOU policii a justici, REFERENDA a PŘÍMOU demokracii WWW.CIBULKA.NET, kandidující s nejlepším protikriminálním programem PŘÍMÉ demokracie a hlubokého národního, duchovního a mravního obrození VY NEVĚŘÍTE POLITIKŮM A JEJICH NOVINÁŘŮM? NO KONEČNĚ! VĚŘME SAMI SOBĚ!!! - ale i s mnoha dalšími DŮVODY, proč bychom měli jít tentokrát VŠICHNI K VOLBÁM, ale - pokud nechceme být ZNOVU obelháni, podvedeni a okradeni - NEVOLIT ŽÁDNOU PARLAMENTNÍ TUNEL - STRANU vládnoucí (post) komunistické RUSKO - ČESKÉ totalitní FÍZLOKRACIE a jejich likvidační protinárodní politiku ČÍM HŮŘE, TÍM LÉPE!!! - jenž žádá o volební podporu VŠECHNY ČESKÉ OBČANY a daňové poplatníky, kteří chtějí změnit dnešní kriminální poměry, jejichž jsme všichni obětí, v jejich pravý opak! V BOJI MEZI DOBREM A ZLEM, PRAVDOU A LŽÍ, NELZE BÝT NEUTRÁLNÍ A PŘESTO ZŮSTAT SLUŠNÝ!!! Proto děkujeme za Vaši podporu!!! Nevěříte-li na pokoru u popravčí káry, zdá-li se vám naše kandidátka málo dokonalá nebo postrádáte-li na ní zástupce své obce nebo města a přitom MÁTE ODVAHU v této válce Lidí Dobra s vládnoucími Lidmi Zla povstat z jimi naordinovaného občanského bezvědomí, kterým nás ničí a dnešní DEMOKRATURU, SKRYTOU TOTALITU a OTROKÁŘSTVÍ VYŠŠÍHO ŘÁDU zásadním způsobem změnit, KANDIDUJTE ZA NÁS!!! Kontakt: Volte Pravý Blok www.cibulka.net, PO BOX 229, 11121 Praha s 16_ kandidáty a průměrným věkem 58,9 let.
 
-Necelá třetina kandidátů jsou ženy. Podíl žen v konkrétní straně, stejně jako věkový průměr, prozradí interaktivní kandidátky.
+Mezi parlamentními stranami je nejstarší _SPD Tomia Okamury_ s průměrem 53,2 roku. Tradičně mladí jsou _Piráti_ s 34,9 roku, překvapivě mladá kandidátka _ČSSD_ s 38,3 roku. K nejmladším patří také brněnský subjekt _Ano, vytrollíme europarlament_ s průměrným věkem kandidátů 34,7 roku.
 
-
-40 stran, 844 kandidátů, pro všechny regiony jednotná kandidátka; maximum je 28 kand.
-
-volí se 21 ze 705 europarl.
-
-60 procent má titul
-
-24 procent jsou ženy
-
-prům. věk je 47,6 roku
-
-z voleb byla vyřazena Moravská a Slezská pirátská strana
-
-z Wiki jsme doplnili lídry stran
-
-
-
-
-
-
+Téměř čtvrtina kandidátů (v abs. počtu 194) je z Prahy, další v pořadí jsou Brno (71 kandidátů), s odstupem Plzeň (33 kandidátů) a Ostrava (23 kandidátů). Nejčastějším povoláním je podnikatel (25 kandidátů), právník, živnostník a ekonom (všechny 11 kandidátů). Osm kandidátů uvádí jako svoje povolání poslanec/poslankyně Evropského parlamentu.
