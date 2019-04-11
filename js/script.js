@@ -1,4 +1,3 @@
-/* eslint-disable no-undef */
 import Papa from "papaparse";
 
 // prodluzovaci bazmek
